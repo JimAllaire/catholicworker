@@ -61,7 +61,7 @@
 
   <div class="col-xs-2">
   <ul class="list-group">
-	<a class="list-group-item" href="/dorothyday/dd-biography.html">Biography</a>
+	<a class="list-group-item" href="dd-biography.html">Biography</a>
     <a class="list-group-item" href=".html">Browse</a>
     <a class="list-group-item" href=".html">Search</a>
 	<a class="list-group-item" href=".html">Themes</a>
@@ -426,11 +426,16 @@
 <script>
 $(document).ready(function () {
   
+  console.log(window.location);
+
   // latching for main navigation
-  href = window.location.pathname
+  var href = window.location.pathname;
   href = href.substr(0, href.lastIndexOf('/') + 1)
   $('a[href="' + href + '"]').parent().addClass('active');
   
+  // latching for sub-navigation
+  var filename = window.location.pathname.split('/').pop();
+  $('a[href="' + filename + '"]').addClass('active');
 });
 
 $(window).on("load", function() {

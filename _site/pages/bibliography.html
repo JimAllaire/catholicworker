@@ -304,11 +304,16 @@
 <script>
 $(document).ready(function () {
   
+  console.log(window.location);
+
   // latching for main navigation
-  href = window.location.pathname
+  var href = window.location.pathname;
   href = href.substr(0, href.lastIndexOf('/') + 1)
   $('a[href="' + href + '"]').parent().addClass('active');
   
+  // latching for sub-navigation
+  var filename = window.location.pathname.split('/').pop();
+  $('a[href="' + filename + '"]').addClass('active');
 });
 
 $(window).on("load", function() {
