@@ -1,0 +1,45 @@
+---
+layout: dorothyday
+title: Dorothy Day Archive - Search
+---
+
+<style type="text/css">
+# custom style for highlighted terms (if desired)
+.st-snippet em {
+	
+}
+</style>
+
+<a name="Top"></a>
+
+<div class="row">
+		
+	
+		<h3>Direct Lookup</h3>
+		<p> If you know a document's DDLW number, e.g. (DDLW #266), enter 266 in the box and press <b>GO</b>. </p>
+		
+		<input type="text" id="docId" size=6 onkeydown="if (event.keyCode==13) document.getElementById('btnDocId').click();"></input>
+		<input type="button" id="btnDocId" value="GO" onClick="doDocIdLookup();"/>
+	</div>
+  
+    <script>
+
+  		function doDocIdLookup() {
+  			docId = document.getElementById('docId').value;
+  			console.log(docId);
+  			docUrl = "/dorothyday/articles/" + docId + ".html";
+  		    window.location = docUrl;	
+  		}
+      
+	</script>
+    
+  
+</div>
+		
+		
+
+
+
+
+
+
