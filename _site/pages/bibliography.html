@@ -313,16 +313,24 @@
 <script>
 $(document).ready(function () {
   
-  console.log(window.location);
-
   // latching for main navigation
-  var href = window.location.pathname;
-  href = href.substr(0, href.lastIndexOf('/') + 1)
-  $('a[href="' + href + '"]').parent().addClass('active');
+  var pathArray = window.location.pathname.split( '/' );
+  var rootDir = pathArray[1];
+  $('a[href="/' + rootDir + '/"]').parent().addClass('active');
   
   // latching for sub-navigation
-  var filename = window.location.pathname.split('/').pop();
-  $('a[href="' + filename + '"]').addClass('active');
+  if (rootDir == "dorothyday") {
+	var subNav = null;
+	if (pathArray.length > 3)
+	  subNav = pathArray[2] + "/index.html";
+	else
+      subNav = pathArray[2];
+    var href = "/dorothyday/" + subNav
+	$('a[href="' + href + '"]').addClass('active');
+  } else {
+  	var filename = window.location.pathname.split('/').pop();
+  	$('a[href="' + filename + '"]').addClass('active');
+  }
 });
 
 $(window).on("load", function() {
