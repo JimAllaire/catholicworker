@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>aims-and-means.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -27,34 +25,6 @@
 	<integer>328</integer>
 	<key>metaData</key>
 	<dict>
-		<key>_config.yml</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>12</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>_layouts/layout.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>31</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>63</integer>
-		</dict>
 		<key>_layouts/petermaurin.html</key>
 		<dict>
 			<key>caret</key>
@@ -68,20 +38,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-		</dict>
-		<key>aims-and-means.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>16</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>1</integer>
 		</dict>
 		<key>blank-page.html</key>
 		<dict>
@@ -143,20 +99,6 @@
 				<integer>20</integer>
 			</dict>
 		</dict>
-		<key>communities/volunteers.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>643</integer>
-				<key>line</key>
-				<integer>375</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
@@ -172,13 +114,9 @@
 			<integer>56</integer>
 		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>aims-and-means.html</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{773, 142}, {923, 815}}</string>
+	<string>{{1177, 60}, {923, 815}}</string>
 </dict>
 </plist>
