@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/canonization.html</string>
+	<string>CNAME</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -26,7 +26,9 @@
 			<key>filename</key>
 			<string>CNAME</string>
 			<key>lastUsed</key>
-			<date>2015-06-02T13:12:09Z</date>
+			<date>2015-06-12T20:07:44Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -38,9 +40,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>22</integer>
 				<key>line</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -137,10 +139,11 @@
 	<key>openDocuments</key>
 	<array>
 		<string>dorothyday/canonization.html</string>
+		<string>CNAME</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{459, 136}, {923, 815}}</string>
+	<string>{{898, 165}, {923, 815}}</string>
 </dict>
 </plist>
