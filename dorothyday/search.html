@@ -2,25 +2,30 @@
 layout: dorothyday
 title: Dorothy Day Archive - Search
 ---
-<style type="text/css">
-# custom style for highlighted terms (if desired)
-.st-snippet em {
-	
-}
-</style>
 
 <a name="Top"></a>
 
 <div class="row">
 	<div class="span8">
 		<h3>Custom Search</h3>
-				
-		<form>
-		  <input type="text" id="st-search-input" class="st-search-input" /> &nbsp;
-		<a class="btn" href="search.html">Reset</a>
-		</form> 
+	
+		<script>
+		  (function() {
+		    var cx = '002079077214816007329:3dshl6r7nlm';
+		    var gcse = document.createElement('script');
+		    gcse.type = 'text/javascript';
+		    gcse.async = true;
+		    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		        '//cse.google.com/cse.js?cx=' + cx;
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
 		
-		<div id="st-results-container"></div>
+		<gcse:search linkTarget="_top" 
+		             enableHistory="true" 
+		             enableAutocomplete="true">
+		</gcse:search>
 		
   	<h4>Making Efficient Queries</h4>
 	<dl>
@@ -60,25 +65,7 @@ title: Dorothy Day Archive - Search
   		    window.location = docUrl;	
   		}
       
-      var customRenderFunction = function(document_type, item) {
-        var index = item['url'].lastIndexOf("/") + 1;
-        var filename = item['url'].substr(index);
-        var stem = filename.substr(0, filename.lastIndexOf('.'));
-        
-        var out = '<h4><a href="' + item['url'] + '" class="st-search-result-link">' + item['title'] + '</a></h4>' +
-                  '<p><span style="color: gray;">' + 'DDLW &#35;' + stem + '&nbsp;&mdash;&nbsp;<a href="' + item['url'] + '" style="color: gray; text-decoration: underline;">' + item['url'] + '</a>' + '</span><br>' + '<small>' + item.highlight.body + '</small></p>'
-        return out;
-      };
-      
-      $(document).ready(function() {
-          $('#st-search-input').swiftypeSearch({
-            resultContainingElement: '#st-results-container',
-            renderFunction: customRenderFunction,
-            engineKey: 'nWUyPMD5mZQ8ngWa7Arf'
-          });
-      });
-      
-		</script>
+	</script>
     
   
 </div>
