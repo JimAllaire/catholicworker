@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2015-06-26T16:02:54Z</date>
+			<date>2015-06-26T17:55:02Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -52,30 +52,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>82</integer>
+				<integer>61</integer>
 				<key>line</key>
-				<integer>35</integer>
+				<integer>30</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>19</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>32</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>82</integer>
-				<key>line</key>
-				<integer>35</integer>
-			</dict>
+			<integer>12</integer>
 		</dict>
 		<key>communities/directory-picker.html</key>
 		<dict>
@@ -96,14 +80,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>23</integer>
+				<integer>61</integer>
 				<key>line</key>
-				<integer>1405</integer>
+				<integer>3384</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1389</integer>
+			<integer>3376</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -245,6 +229,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{275, 173}, {927, 815}}</string>
+	<string>{{241, 90}, {927, 815}}</string>
 </dict>
 </plist>
