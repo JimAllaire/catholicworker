@@ -3,9 +3,6 @@ description: Website of the Catholic Worker Movement
 
 baseurl: /
 
-auto: true
-server: true
-
 markdown: kramdown
 
 

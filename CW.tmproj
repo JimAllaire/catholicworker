@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2015-06-26T17:55:02Z</date>
+			<date>2015-07-02T16:49:47Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -47,48 +47,34 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>communities/directory-picker.html</key>
+		<key>boilerplate.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>36</integer>
 				<key>line</key>
-				<integer>890</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>872</integer>
-		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>152</integer>
-				<key>line</key>
-				<integer>3376</integer>
+				<integer>60</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3368</integer>
+			<integer>35</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>12</integer>
+				<integer>21</integer>
 				<key>line</key>
-				<integer>3376</integer>
+				<integer>60</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>152</integer>
+				<integer>36</integer>
 				<key>line</key>
-				<integer>3376</integer>
+				<integer>60</integer>
 			</dict>
 		</dict>
 		<key>communities/links.html</key>
@@ -105,47 +91,19 @@
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
 		</dict>
-		<key>dorothyday/articles/1.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>dorothyday/browse/50s.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>dorothyday/dd-biography.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>11</integer>
+				<integer>47</integer>
 				<key>line</key>
-				<integer>34</integer>
+				<integer>47</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>64</integer>
 			<key>firstVisibleLine</key>
-			<integer>30</integer>
+			<integer>21</integer>
 		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
@@ -160,6 +118,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>29</integer>
+		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>17</integer>
+				<key>line</key>
+				<integer>59</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>37</integer>
 		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
@@ -222,13 +194,13 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>dorothyday/browse/50s.html</string>
-		<string>dorothyday/articles/1.html</string>
+		<string>index.html</string>
 		<string>dorothyday/dd-biography.html</string>
+		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{427, 87}, {927, 815}}</string>
+	<string>{{683, 65}, {756, 815}}</string>
 </dict>
 </plist>
