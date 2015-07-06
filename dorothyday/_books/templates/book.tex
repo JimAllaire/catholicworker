@@ -51,6 +51,8 @@ $endif$
 $if(listings)$
 \usepackage{listings}
 $endif$
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 $if(lhs)$
 \lstnewenvironment{code}{\lstset{language=Haskell,basicstyle=\small\ttfamily}}{}
 $endif$
