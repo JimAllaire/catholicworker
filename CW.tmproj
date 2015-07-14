@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>dorothyday/themes/aims-and-purposes.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -89,7 +89,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>356</integer>
+			<integer>359</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -105,6 +105,20 @@
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
 		</dict>
+		<key>dorothyday/_books/OnAimsandPurposes.intro.md</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
 			<key>caret</key>
@@ -118,6 +132,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>29</integer>
+		</dict>
+		<key>dorothyday/themes/aims-and-purposes.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
@@ -181,10 +209,12 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
+		<string>dorothyday/_books/OnAimsandPurposes.intro.md</string>
+		<string>dorothyday/themes/aims-and-purposes.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{635, 125}, {756, 815}}</string>
+	<string>{{681, 95}, {756, 815}}</string>
 </dict>
 </plist>
