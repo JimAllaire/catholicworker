@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>about/bibliography.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -74,6 +74,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>about/bibliography.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>91</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>72</integer>
 		</dict>
 		<key>boilerplate.html</key>
 		<dict>
@@ -336,10 +350,11 @@
 	<array>
 		<string>communities/directory.html</string>
 		<string>communities/directory-picker.html</string>
+		<string>about/bibliography.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{953, 146}, {756, 815}}</string>
+	<string>{{934, 151}, {756, 815}}</string>
 </dict>
 </plist>
