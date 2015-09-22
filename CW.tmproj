@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>forest-beginnings.html</string>
+	<string>communities/directory.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -110,44 +110,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>53</integer>
 				<key>line</key>
-				<integer>1400</integer>
+				<integer>1507</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1377</integer>
+			<integer>1476</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>101</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>5731</integer>
+				<integer>6186</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>5704</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>12</integer>
-				<key>line</key>
-				<integer>5731</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>101</integer>
-				<key>line</key>
-				<integer>5731</integer>
-			</dict>
+			<integer>6172</integer>
 		</dict>
 		<key>communities/index.html</key>
 		<dict>
@@ -176,36 +160,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
-		</dict>
-		<key>communities/websites.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>649</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>79</integer>
-			<key>firstVisibleLine</key>
-			<integer>638</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>646</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>649</integer>
-			</dict>
 		</dict>
 		<key>dorothyday/index.html</key>
 		<dict>
@@ -319,20 +273,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>forest-beginnings.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>30</integer>
-				<key>line</key>
-				<integer>2</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
 			<key>caret</key>
@@ -395,13 +335,11 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
-		<string>communities/websites.html</string>
-		<string>forest-beginnings.html</string>
 		<string>communities/directory-picker.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{545, 48}, {756, 815}}</string>
+	<string>{{816, 62}, {756, 815}}</string>
 </dict>
 </plist>
