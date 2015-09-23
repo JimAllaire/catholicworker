@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -80,29 +80,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>36</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>60</integer>
+				<integer>33</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>35</integer>
+			<integer>4</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>21</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>60</integer>
+				<integer>13</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>36</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>60</integer>
+				<integer>33</integer>
 			</dict>
 		</dict>
 		<key>communities/directory-picker.html</key>
@@ -110,14 +110,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>53</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>1507</integer>
+				<integer>1277</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1476</integer>
+			<integer>1262</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -126,12 +126,12 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>6186</integer>
+				<integer>5194</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>6172</integer>
+			<integer>5174</integer>
 		</dict>
 		<key>communities/index.html</key>
 		<dict>
@@ -335,11 +335,12 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
+		<string>boilerplate.html</string>
 		<string>communities/directory-picker.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{816, 62}, {756, 815}}</string>
+	<string>{{1088, 104}, {756, 815}}</string>
 </dict>
 </plist>
