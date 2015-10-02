@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -75,64 +73,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>boilerplate.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>33</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>4</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>13</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>33</integer>
-			</dict>
-		</dict>
-		<key>communities/directory-picker.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>1277</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>1262</integer>
-		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>5194</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>5174</integer>
-		</dict>
 		<key>communities/index.html</key>
 		<dict>
 			<key>caret</key>
@@ -160,20 +100,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
-		</dict>
-		<key>dorothyday/index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>273</integer>
-				<key>line</key>
-				<integer>53</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
 		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
@@ -332,15 +258,9 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>communities/directory.html</string>
-		<string>boilerplate.html</string>
-		<string>communities/directory-picker.html</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1088, 104}, {756, 815}}</string>
+	<string>{{679, 141}, {756, 815}}</string>
 </dict>
 </plist>
