@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>communities/directory.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -134,20 +132,6 @@
 				<key>line</key>
 				<integer>1667</integer>
 			</dict>
-		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>107</integer>
-				<key>line</key>
-				<integer>1225</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>1208</integer>
 		</dict>
 		<key>communities/index.html</key>
 		<dict>
@@ -346,18 +330,9 @@
 			<integer>7</integer>
 		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>communities/directory.html</string>
-		<string>communities/websites.html</string>
-		<string>communities/directory-picker.html</string>
-		<string>communities/volunteers.html</string>
-		<string>shops.html</string>
-		<string>boilerplate.html</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{582, 154}, {756, 814}}</string>
+	<string>{{678, 163}, {756, 814}}</string>
 </dict>
 </plist>
