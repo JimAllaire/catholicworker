@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -134,20 +134,6 @@
 				<key>line</key>
 				<integer>1667</integer>
 			</dict>
-		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>685</integer>
-				<key>line</key>
-				<integer>4532</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>4517</integer>
 		</dict>
 		<key>communities/index.html</key>
 		<dict>
@@ -303,6 +289,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>106</integer>
+				<key>line</key>
+				<integer>32</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>17</integer>
+		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
 			<key>caret</key>
@@ -348,12 +348,11 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>communities/directory.html</string>
-		<string>communities/volunteers.html</string>
+		<string>index.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{719, 132}, {756, 814}}</string>
+	<string>{{362, 134}, {756, 814}}</string>
 </dict>
 </plist>
