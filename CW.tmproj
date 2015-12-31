@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -163,20 +161,6 @@
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
 		</dict>
-		<key>communities/volunteers.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>687</integer>
-				<key>line</key>
-				<integer>390</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>373</integer>
-		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
@@ -289,20 +273,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>2</integer>
-				<key>line</key>
-				<integer>91</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>66</integer>
-		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
 			<key>caret</key>
@@ -376,14 +346,9 @@
 			<integer>7</integer>
 		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>index.html</string>
-		<string>petermaurin/easy-essays.html</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{805, 131}, {756, 814}}</string>
+	<string>{{615, 78}, {756, 814}}</string>
 </dict>
 </plist>
