@@ -124,42 +124,12 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>8</integer>
+				<integer>48</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>dorothyday/browse/40s.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>81</integer>
-				<key>line</key>
-				<integer>23</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>274</integer>
-			<key>firstVisibleLine</key>
-			<integer>10</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>35</integer>
-				<key>line</key>
-				<integer>23</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>81</integer>
-				<key>line</key>
-				<integer>23</integer>
-			</dict>
+			<integer>17</integer>
 		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
@@ -334,12 +304,11 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>dorothyday/browse/40s.html</string>
 		<string>dorothyday/_source/558.md</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{615, 78}, {756, 814}}</string>
+	<string>{{659, 193}, {756, 814}}</string>
 </dict>
 </plist>
