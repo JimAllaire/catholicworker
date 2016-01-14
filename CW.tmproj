@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/_source/558.md</string>
+	<string>about/acknowledgements.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -69,6 +69,20 @@
 				<integer>101</integer>
 				<key>line</key>
 				<integer>9</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>about/acknowledgements.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>487</integer>
+				<key>line</key>
+				<integer>11</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -305,6 +319,7 @@
 	<key>openDocuments</key>
 	<array>
 		<string>dorothyday/_source/558.md</string>
+		<string>about/acknowledgements.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
