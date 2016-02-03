@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/_source/558.md</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2015-10-21T20:42:29Z</date>
+			<date>2016-02-02T21:02:42Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -75,6 +75,36 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>boilerplate.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>36</integer>
+				<key>line</key>
+				<integer>60</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>37</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>21</integer>
+				<key>line</key>
+				<integer>60</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>36</integer>
+				<key>line</key>
+				<integer>60</integer>
+			</dict>
+		</dict>
 		<key>communities/index.html</key>
 		<dict>
 			<key>caret</key>
@@ -116,20 +146,6 @@
 			<integer>159</integer>
 			<key>firstVisibleLine</key>
 			<integer>245</integer>
-		</dict>
-		<key>dorothyday/_source/558.md</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>48</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>17</integer>
 		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
@@ -229,6 +245,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>10</integer>
+				<key>line</key>
+				<integer>8</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
 			<key>caret</key>
@@ -304,7 +334,8 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>dorothyday/_source/558.md</string>
+		<string>index.html</string>
+		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
