@@ -94,28 +94,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>10</integer>
 				<key>line</key>
-				<integer>1853</integer>
+				<integer>1910</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1829</integer>
+			<integer>1886</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>39</integer>
+				<integer>8</integer>
 				<key>line</key>
-				<integer>7737</integer>
+				<integer>8045</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>13</integer>
 			<key>firstVisibleLine</key>
-			<integer>7720</integer>
+			<integer>8032</integer>
 		</dict>
 		<key>communities/index.html</key>
 		<dict>
@@ -320,7 +320,6 @@
 	<array>
 		<string>communities/directory-picker.html</string>
 		<string>communities/directory.html</string>
-		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
