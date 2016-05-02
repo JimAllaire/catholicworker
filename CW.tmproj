@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>cw-aims-and-means.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -75,20 +75,6 @@
 			<key>firstVisibleLine</key>
 			<integer>41</integer>
 		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>1552</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>1524</integer>
-		</dict>
 		<key>communities/links.html</key>
 		<dict>
 			<key>caret</key>
@@ -102,6 +88,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
+		</dict>
+		<key>cw-aims-and-means.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>44</integer>
+				<key>line</key>
+				<integer>88</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>53</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -158,20 +158,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-		</dict>
-		<key>dorothyday/index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>87</integer>
-				<key>line</key>
-				<integer>61</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>54</integer>
 		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
@@ -346,11 +332,11 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>communities/directory.html</string>
+		<string>cw-aims-and-means.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{522, 234}, {977, 801}}</string>
+	<string>{{925, 232}, {977, 801}}</string>
 </dict>
 </plist>
