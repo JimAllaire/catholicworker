@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/volunteers.html</string>
+	<string>communities/websites.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -66,14 +66,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>623</integer>
+				<integer>72</integer>
 				<key>line</key>
-				<integer>3464</integer>
+				<integer>1733</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>299</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3462</integer>
+			<integer>1703</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>63</integer>
+				<key>line</key>
+				<integer>1733</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>72</integer>
+				<key>line</key>
+				<integer>1733</integer>
+			</dict>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -102,6 +118,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>311</integer>
+		</dict>
+		<key>communities/websites.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>14</integer>
+				<key>line</key>
+				<integer>312</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>296</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -333,6 +363,7 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
+		<string>communities/websites.html</string>
 		<string>communities/volunteers.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
