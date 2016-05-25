@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>communities/directory.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -27,6 +25,8 @@
 			<string>CNAME</string>
 			<key>lastUsed</key>
 			<date>2015-06-13T14:28:04Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -120,20 +120,6 @@
 				<key>line</key>
 				<integer>1206</integer>
 			</dict>
-		</dict>
-		<key>communities/directory.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>72</integer>
-				<key>line</key>
-				<integer>5319</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>5308</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -404,17 +390,9 @@
 			<integer>7</integer>
 		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>communities/directory.html</string>
-		<string>communities/websites.html</string>
-		<string>boilerplate.html</string>
-		<string>communities/directory-picker.html</string>
-		<string>communities/volunteers.html</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1302, 471}, {977, 801}}</string>
+	<string>{{1280, 355}, {977, 801}}</string>
 </dict>
 </plist>
