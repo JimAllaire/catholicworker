@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>communities/volunteers.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -58,44 +58,74 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>88</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>20</integer>
+				<integer>50</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>5</integer>
+			<integer>34</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>20</integer>
+				<integer>41</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>88</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>20</integer>
+				<integer>50</integer>
 			</dict>
+		</dict>
+		<key>communities/directory-picker.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>1128</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1110</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>334</integer>
+				<integer>694</integer>
 				<key>line</key>
-				<integer>393</integer>
+				<integer>805</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>311</integer>
 			<key>firstVisibleLine</key>
-			<integer>374</integer>
+			<integer>789</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>3</integer>
+				<key>line</key>
+				<integer>805</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>694</integer>
+				<key>line</key>
+				<integer>805</integer>
+			</dict>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -110,6 +140,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
+		</dict>
+		<key>communities/volunteers.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>27</integer>
+				<key>line</key>
+				<integer>87</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>65</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -341,11 +385,13 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
+		<string>communities/volunteers.html</string>
+		<string>communities/directory-picker.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1098, 45}, {977, 801}}</string>
+	<string>{{1442, 391}, {977, 801}}</string>
 </dict>
 </plist>
