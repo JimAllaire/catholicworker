@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/volunteers.html</string>
+	<string>of-note.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -26,7 +26,9 @@
 			<key>filename</key>
 			<string>of-note.html</string>
 			<key>lastUsed</key>
-			<date>2016-05-29T19:12:16Z</date>
+			<date>2016-06-08T18:54:04Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -58,29 +60,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>6</integer>
+				<integer>39</integer>
 				<key>line</key>
-				<integer>50</integer>
+				<integer>32</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>34</integer>
+			<integer>10</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>41</integer>
+				<integer>13</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>6</integer>
+				<integer>39</integer>
 				<key>line</key>
-				<integer>50</integer>
+				<integer>32</integer>
 			</dict>
 		</dict>
 		<key>communities/directory-picker.html</key>
@@ -88,44 +90,44 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>2</integer>
+				<integer>91</integer>
 				<key>line</key>
-				<integer>1128</integer>
+				<integer>1720</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1110</integer>
+			<integer>1702</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>1720</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>91</integer>
+				<key>line</key>
+				<integer>1720</integer>
+			</dict>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>694</integer>
+				<integer>698</integer>
 				<key>line</key>
-				<integer>805</integer>
+				<integer>7366</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>311</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>789</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>3</integer>
-				<key>line</key>
-				<integer>805</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>694</integer>
-				<key>line</key>
-				<integer>805</integer>
-			</dict>
+			<integer>7365</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -140,20 +142,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
-		</dict>
-		<key>communities/volunteers.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>27</integer>
-				<key>line</key>
-				<integer>87</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>65</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -309,6 +297,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>31</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>17</integer>
+		</dict>
 		<key>of-note.html</key>
 		<dict>
 			<key>caret</key>
@@ -385,13 +387,14 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory.html</string>
-		<string>communities/volunteers.html</string>
 		<string>communities/directory-picker.html</string>
+		<string>index.html</string>
+		<string>of-note.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1442, 391}, {977, 801}}</string>
+	<string>{{1143, 231}, {977, 801}}</string>
 </dict>
 </plist>
