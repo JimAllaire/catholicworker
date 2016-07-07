@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/_books/OnConscience.intro.md</string>
+	<string>dorothyday/_books/make-theme-books.sh</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -178,9 +178,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>1</integer>
+				<integer>13</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
