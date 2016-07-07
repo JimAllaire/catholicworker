@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>dorothyday/_books/OnConscience.intro.md</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -131,6 +131,20 @@
 			<key>firstVisibleLine</key>
 			<integer>422</integer>
 		</dict>
+		<key>dorothyday/_books/OnConscience.intro.md</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
 			<key>caret</key>
@@ -139,6 +153,34 @@
 				<integer>0</integer>
 				<key>line</key>
 				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>dorothyday/_books/make-theme-book.sh</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>dorothyday/_books/make-theme-books.sh</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>1</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -309,6 +351,9 @@
 		<string>boilerplate.html</string>
 		<string>communities/directory-picker.html</string>
 		<string>communities/directory.html</string>
+		<string>dorothyday/_books/make-theme-book.sh</string>
+		<string>dorothyday/_books/make-theme-books.sh</string>
+		<string>dorothyday/_books/OnConscience.intro.md</string>
 		<string>communities/websites.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
