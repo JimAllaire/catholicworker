@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>communities/websites.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -80,74 +80,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>5</integer>
 				<key>line</key>
-				<integer>1025</integer>
+				<integer>1813</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>994</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>1025</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>1</integer>
-				<key>line</key>
-				<integer>1025</integer>
-			</dict>
+			<integer>1784</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>119</integer>
+				<integer>8</integer>
 				<key>line</key>
-				<integer>4033</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>4020</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>30</integer>
-				<key>line</key>
-				<integer>4033</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>119</integer>
-				<key>line</key>
-				<integer>4033</integer>
-			</dict>
-		</dict>
-		<key>communities/links.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>78</integer>
-				<key>line</key>
-				<integer>33</integer>
+				<integer>7649</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>14</integer>
+			<integer>7632</integer>
 		</dict>
 		<key>communities/volunteers.html</key>
 		<dict>
@@ -161,21 +115,21 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>16</integer>
+			<integer>713</integer>
 		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>8</integer>
 				<key>line</key>
-				<integer>386</integer>
+				<integer>816</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>101</integer>
+			<integer>96</integer>
 			<key>firstVisibleLine</key>
-			<integer>366</integer>
+			<integer>799</integer>
 		</dict>
 		<key>dorothyday/_books/OnConscience.intro.md</key>
 		<dict>
