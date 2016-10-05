@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/websites.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2016-09-06T17:41:43Z</date>
+			<date>2016-10-05T20:39:22Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -50,9 +50,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>39</integer>
 				<key>line</key>
-				<integer>61</integer>
+				<integer>32</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -65,14 +65,14 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>60</integer>
+				<integer>13</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>39</integer>
 				<key>line</key>
-				<integer>61</integer>
+				<integer>32</integer>
 			</dict>
 		</dict>
 		<key>communities/directory-picker.html</key>
@@ -80,28 +80,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>78</integer>
 				<key>line</key>
-				<integer>1813</integer>
+				<integer>1399</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1784</integer>
+			<integer>1391</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>8</integer>
+				<integer>67</integer>
 				<key>line</key>
-				<integer>7649</integer>
+				<integer>5767</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>7632</integer>
+			<integer>5748</integer>
 		</dict>
 		<key>communities/volunteers.html</key>
 		<dict>
@@ -127,9 +127,9 @@
 				<integer>816</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>96</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>799</integer>
+			<integer>796</integer>
 		</dict>
 		<key>dorothyday/_books/OnConscience.intro.md</key>
 		<dict>
@@ -329,6 +329,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1016, 56}, {937, 800}}</string>
+	<string>{{1017, 21}, {937, 800}}</string>
 </dict>
 </plist>
