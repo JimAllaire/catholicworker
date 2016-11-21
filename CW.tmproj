@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -101,7 +101,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>5925</integer>
+			<integer>5915</integer>
 		</dict>
 		<key>communities/volunteers.html</key>
 		<dict>
@@ -229,6 +229,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>152</integer>
+				<key>line</key>
+				<integer>34</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>23</integer>
+		</dict>
 		<key>of-note.html</key>
 		<dict>
 			<key>caret</key>
@@ -324,11 +338,12 @@
 		<string>communities/volunteers.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/directory.html</string>
+		<string>index.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1151, 258}, {937, 800}}</string>
+	<string>{{1057, 181}, {937, 800}}</string>
 </dict>
 </plist>
