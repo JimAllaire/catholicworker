@@ -370,12 +370,11 @@
 		<string>communities/volunteers.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/directory.html</string>
-		<string>index.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1285, 183}, {937, 800}}</string>
+	<string>{{1069, 56}, {937, 800}}</string>
 </dict>
 </plist>
