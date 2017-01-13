@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/websites.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2016-10-05T20:39:22Z</date>
+			<date>2017-01-06T12:55:43Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -33,6 +33,8 @@
 			<string>CNAME</string>
 			<key>lastUsed</key>
 			<date>2015-06-13T14:28:04Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -50,30 +52,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>61</integer>
+				<integer>55</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>37</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>60</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>4</integer>
-				<key>line</key>
-				<integer>61</integer>
-			</dict>
 		</dict>
 		<key>communities/directory-picker.html</key>
 		<dict>
@@ -273,7 +259,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>20</integer>
+			<integer>23</integer>
 		</dict>
 		<key>of-note.html</key>
 		<dict>
@@ -371,10 +357,11 @@
 		<string>communities/websites.html</string>
 		<string>communities/directory.html</string>
 		<string>boilerplate.html</string>
+		<string>index.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1063, 133}, {937, 800}}</string>
+	<string>{{1137, 131}, {937, 800}}</string>
 </dict>
 </plist>
