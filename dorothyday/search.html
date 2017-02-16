@@ -1,0 +1,80 @@
+---
+layout: dorothyday
+title: Dorothy Day Archive - Search
+---
+
+<a name="Top"></a>
+
+<div class="row">
+	<div class="col-md-8">
+		<h3>Custom Search</h3>
+	
+		<script>
+		  (function() {
+		    var cx = '002079077214816007329:3dshl6r7nlm';
+		    var gcse = document.createElement('script');
+		    gcse.type = 'text/javascript';
+		    gcse.async = true;
+		    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		        '//cse.google.com/cse.js?cx=' + cx;
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
+		
+		<gcse:search linkTarget="_top" 
+		             enableHistory="true" 
+		             enableAutocomplete="true">
+		</gcse:search>
+		
+  	<h4>Making Efficient Queries</h4>
+	<dl>
+	  <dt><b>Simple search</b></dt>
+	    <dd>Start with a single name, place, concept: <FONT FACE="courier, helvetica, georgia,arial"> Peter Maurin, pacifism, hospitality.</font></dd>
+	  <dt><b>Add relevant words</b></dt>
+	    <dd>Typing <FONT FACE="helvetica, georgia, courier, arial"> pacifism poverty</font> returns documents where pacifism AND poverty are present, narrowing a simple search.</dd>
+	  </dt>
+	<dt><b>Search for exact word or phrase</b></dt>
+	<dd>Put quotes around a word or search term for an exact phrase in an exact order:<FONT FACE="helvetica, georgia, courier, arial"> "works of mercy".</font></dd>
+	<dt><b>Either word query</b></dt>
+	    <dd>If you want to search for pages that may have just one of several words, include OR (capitalized) between the words: <FONT FACE="helvetica, georgia, courier, arial"> poverty OR pacifism.</font></dd>
+		<dt><b>Don't worry about cases</b></dt>
+		    <dd>Search isn't case sensitive: <FONT FACE="helvetica, georgia, courier, arial"> peter maurin</font> and <FONT FACE="helvetica, georgia, courier, arial"> Peter Maurin</font> return the same results.</dd>	
+	</dl>
+		
+		<a href="#Top">Go to top</a>
+		</div>
+		
+		
+	<div class="col-md-4">
+	
+		<h3>Direct Lookup</h3>
+		<p> If you know a document's DDLW number, e.g. (DDLW #266), enter 266 in the box and press <b>GO</b>. </p>
+		
+
+		<input type="text" id="docId" size=6 onkeydown="if (event.keyCode==13) document.getElementById('btnDocId').click();"></input>
+		<input type="button" id="btnDocId" value="GO" onClick="doDocIdLookup();"/>
+	</div>
+  
+    <script>
+
+  		function doDocIdLookup() {
+  			docId = document.getElementById('docId').value;
+  			console.log(docId);
+  			docUrl = "articles/" + docId + ".html";
+  		    window.location = docUrl;	
+  		}
+      
+	</script>
+    
+  
+</div>
+
+		
+		
+
+
+
+
+
+
