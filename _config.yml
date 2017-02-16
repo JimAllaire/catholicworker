@@ -1,5 +1,7 @@
 name: Catholic Worker Movement
 description: Website of the Catholic Worker Movement
+destination: docs
+include: ['.nojekyll']
 
 baseurl: /
 

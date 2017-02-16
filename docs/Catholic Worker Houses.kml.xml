@@ -1,0 +1,1474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Catholic Worker Houses</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mary's House</name>
+				<Point>
+					<coordinates>-86.89608899999996,33.509792,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Andre House of Hospitality
+</name>
+				<Point>
+					<coordinates>-112.086476,33.453581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa Maria</name>
+				<Point>
+					<coordinates>-110.96365100000003,32.202979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Quixote's Garage
+</name>
+				<description><![CDATA[Quixote's Garage]]></description>
+				<Point>
+					<coordinates>-112.472509,34.544897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Beatitude House
+</name>
+				<Point>
+					<coordinates>-120.57212600000003,34.97033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Burning Bush</name>
+				<Point>
+					<coordinates>-118.25339429999997,34.0679155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Case de Clara</name>
+				<Point>
+					<coordinates>-121.88849800000003,37.343653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Earth Abides Catholic Worker Farm
+</name>
+				<Point>
+					<coordinates>-120.40795000000003,38.272542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>High Desert Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-117.20543199999997,34.522596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Isaiah House 
+</name>
+				<Point>
+					<coordinates>-117.86660369999998,33.7427764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Kelly Avenue Catholic Worker of Half Moon Bay
+</name>
+				<Point>
+					<coordinates>-122.44259299999999,37.464609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Los Angeles Catholic Worker Community
+</name>
+				<Point>
+					<coordinates>-118.21160600000002,34.0513148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Martin de Porres House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-122.40728200000001,37.766611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Oakland Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.20901709999998,37.7698515,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Peter Maurin Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-116.52966400000003,32.598077,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Redwood City Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-122.22467599999999,37.484194,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Sacramento Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-121.4889834,38.5833008,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>San Bruno Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.40875199999999,37.62797,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>San Pedro Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-118.30211500000001,33.749334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Santa Rosa Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.71878800000002,38.4405069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St. Benedict Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-119.84287699999999,36.790646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Temenos Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.42011300000001,37.790961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Denver Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-104.98093799999998,39.752135,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Amistad Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-72.938782,41.29284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day Hospitality House 
+</name>
+				<Point>
+					<coordinates>-73.45810219999998,41.3949649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>New Covenant House of Hospitality
+</name>
+				<Point>
+					<coordinates>-73.55087530000003,41.047885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis House 
+</name>
+				<Point>
+					<coordinates>-72.10055679999999,41.356163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Martin de Porres House
+</name>
+				<Point>
+					<coordinates>-72.67773950000003,41.78571669999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Vincent de Paul Place
+</name>
+				<Point>
+					<coordinates>-72.6520061,41.5641824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day Catholic Worker House
+</name>
+				<Point>
+					<coordinates>-77.019315,38.937546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Catholic Worker of St Petersburg 
+</name>
+				<Point>
+					<coordinates>-82.655665,27.779518,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Florida CW R&amp;R
+</name>
+				<Point>
+					<coordinates>-82.655776,27.71477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gainesville Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-82.32721200000003,29.653553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Jorge Pettit Hospitality House
+</name>
+				<Point>
+					<coordinates>-80.33008000000001,27.443994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-81.39310660000001,28.5720164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>The Open Door Community 
+</name>
+				<Point>
+					<coordinates>-84.35762199999999,33.774176,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Boise Catholic Worker
+</name>
+				<Point>
+					<coordinates>-116.22781299999997,43.590081,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Corpus Christi House 
+</name>
+				<Point>
+					<coordinates>-116.21615270000001,43.61827359999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Clare House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-88.98538200000002,40.479476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Hedwig Haus of Hospitality 
+</name>
+				<Point>
+					<coordinates>-88.17892949999998,39.4941532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>New Wineskins Catholic Worker House of Hospitality
+</name>
+				<Point>
+					<coordinates>-88.10277300000001,41.522788,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Peoria Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-89.595121,40.713534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis of Assisi House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-87.65654599999999,41.966948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Jude Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-88.24541399999998,40.113226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Su Casa Catholic Worker Community
+</name>
+				<Point>
+					<coordinates>-87.66182099999997,41.802134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Bloomington Christian Radical / Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-86.54414500000001,39.174252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Burdock House 
+</name>
+				<Point>
+					<coordinates>-85.683356,40.091321,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Cesar Chavez House 
+</name>
+				<Point>
+					<coordinates>-87.45795850000002,41.6449756,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>House of Bread and Peace
+</name>
+				<Point>
+					<coordinates>-87.56145400000003,37.9659626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>House of the Little Flower 
+</name>
+				<Point>
+					<coordinates>-86.20650519999998,39.7669928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St. Peter Claver Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-86.2486419,41.6707347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Rachel Corrie House 
+</name>
+				<Point>
+					<coordinates>-93.62783389999998,41.602554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Emma Cornelis Hospitality House 
+</name>
+				<Point>
+					<coordinates>-91.346026,40.625297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy's Place Hospitality Center</name>
+				<Point>
+					<coordinates>-121.65272600000003,36.678754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Hope House 
+</name>
+				<Point>
+					<coordinates>-90.671445,42.507022,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mustard Seed Community Farm
+</name>
+				<Point>
+					<coordinates>-93.74072480000001,42.1551825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>New Hope CW Farm &amp; Agronomic University
+</name>
+				<Point>
+					<coordinates>-90.63448299999999,42.390654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Oaks of Mamre Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-90.60030660000001,41.5285511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Simone Weil and Peter Maurin House -- Monastic
+</name>
+				<Point>
+					<coordinates>-90.66749900000002,42.522298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St John of the Cross Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-91.65531899999996,41.980694,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Strangers &amp; Guests Catholic Worker Community
+</name>
+				<Point>
+					<coordinates>-94.40874919999999,40.67470750000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Divine Mercy Catholic Worker House
+</name>
+				<Point>
+					<coordinates>-98.20000399999998,38.34881379999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Emmaus House 
+</name>
+				<Point>
+					<coordinates>-100.868108,37.971173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Shalom Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-94.64338599999996,39.130605,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa Latina Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-85.7534607,38.2293277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>New Orleans Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-90.07341500000001,29.930695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Catholic Worker Community 
+</name>
+				<Point>
+					<coordinates>-77.0718804,39.1094429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Viva House, Baltimore Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-76.64396499999998,39.286704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Haley House 
+</name>
+				<Point>
+					<coordinates>-71.07393000000002,42.343729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Rosie's Place 
+</name>
+				<Point>
+					<coordinates>-71.07672600000001,42.33395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>SS Francis &amp; Therese Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-71.81982800000003,42.258603,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Day House</name>
+				<Point>
+					<coordinates>-83.069253,42.33635599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mustard Seed Shelter 
+</name>
+				<Point>
+					<coordinates>-83.92605600000002,43.427668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Ambrose Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-83.98060199999998,43.4273079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Central Minnesota Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-94.31820420000003,45.5646631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day Center 
+</name>
+				<Point>
+					<coordinates>-93.10131330000002,44.94669589999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day Hospitality House 
+</name>
+				<Point>
+					<coordinates>-92.47278,44.02272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-96.76753300000001,46.866736,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Loaves &amp; Fishes Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-92.07485199999996,46.802485,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Maryhouse of Little Canada 
+</name>
+				<Point>
+					<coordinates>-93.08220039999998,45.020765,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Rye House 
+</name>
+				<Point>
+					<coordinates>-93.26004390000003,44.960642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Solanus Casey House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-92.81460190000001,45.066817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis House 
+</name>
+				<Point>
+					<coordinates>-92.81748099999999,45.0662499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Carl Kabat House 
+</name>
+				<Point>
+					<coordinates>-90.19739440000001,38.6465403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Cherith Brook Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-94.542933,39.098594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Columbia Catholic Worker Community
+</name>
+				<Point>
+					<coordinates>-92.325154,38.961187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Ella Dickson House 
+</name>
+				<Point>
+					<coordinates>-90.198871,38.643412,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Holy Family House 
+</name>
+				<Point>
+					<coordinates>-94.57337100000001,39.070834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Karen House Catholic Worker
+</name>
+				<Point>
+					<coordinates>-90.19976600000001,38.646569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Loaves and Fishes Soup Kitchen 
+</name>
+				<Point>
+					<coordinates>-92.3298335,38.9545871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis House
+</name>
+				<Point>
+					<coordinates>-92.32507399999997,38.960214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Trinity Hills 
+</name>
+				<Point>
+					<coordinates>-93.0729988,37.1981316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>BitterRoot Catholic Worker Farm
+</name>
+				<Point>
+					<coordinates>-114.011638,46.583267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Las Vegas Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-115.148616,36.187243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Leavenhouse
+</name>
+				<Point>
+					<coordinates>-75.11572849999999,39.9522078,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa de las Comunidades Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-106.56616600000001,35.070981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Trinity House Catholic Worker
+</name>
+				<Point>
+					<coordinates>-106.68434300000001,35.072427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Bethany House Rochester Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-77.60831680000001,43.1855561,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa de la Paz 
+</name>
+				<Point>
+					<coordinates>-73.36635899999999,40.748752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Catholic Worker of Niagara Falls 
+</name>
+				<Point>
+					<coordinates>-79.05256700000001,43.10745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House 
+</name>
+				<Point>
+					<coordinates>-76.13779349999999,42.9979838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Emmaus House Albany Catholic Worker
+</name>
+				<Point>
+					<coordinates>-73.75670300000002,42.644668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Friends of Dorothy Catholic Worker
+</name>
+				<Point>
+					<coordinates>-76.13964399999998,43.0552009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Hesed House 
+</name>
+				<Point>
+					<coordinates>-76.162147,43.033722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Holy Family Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-73.81696799999997,41.050941,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Maryhouse
+</name>
+				<Point>
+					<coordinates>-73.9891553,40.72526209999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Peter Maurin Farm
+</name>
+				<Point>
+					<coordinates>-73.99032869999996,41.6220718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Slocum House 
+</name>
+				<Point>
+					<coordinates>-76.16096600000003,43.040215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Joseph House 
+</name>
+				<Point>
+					<coordinates>-73.99009389999998,40.7241491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Joseph's House of Hospitality
+</name>
+				<Point>
+					<coordinates>-77.60590630000002,43.14766669999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St. Francis Farm 
+</name>
+				<Point>
+					<coordinates>-76.02691399999998,43.590711,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Unity Acres
+</name>
+				<Point>
+					<coordinates>-75.9348137,43.5611472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Unity Kitchen Community of the CW 
+</name>
+				<Point>
+					<coordinates>-76.15603199999998,43.04074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Zacchaeus House
+</name>
+				<Point>
+					<coordinates>-75.90061400000002,42.102649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Community of the Franciscan Way 
+</name>
+				<Point>
+					<coordinates>-78.92006300000003,36.01664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Fr. Charles Mulholland Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-78.61706099999998,35.715068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Nazareth House Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-78.596877,35.771623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Silk Hope Catholic Worker
+</name>
+				<Point>
+					<coordinates>-79.32595400000002,35.814492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Alliance Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-81.098007,40.913554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>CAIN/Grace Place (Churches Active In Northside)
+</name>
+				<Point>
+					<coordinates>-84.55075599999998,39.201623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa San Jose 
+</name>
+				<Point>
+					<coordinates>-81.713776,41.479632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Catholic Worker Community of Akron
+</name>
+				<Point>
+					<coordinates>-81.53466200000003,41.0637029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Cleveland Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-81.710643,41.47999799999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Colette Marie Infant Home 
+</name>
+				<Point>
+					<coordinates>-82.04763600000001,41.460327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House of Hospitality
+</name>
+				<Point>
+					<coordinates>-80.655776,41.110375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mary Queen of Peace House 
+</name>
+				<Point>
+					<coordinates>-84.15056299999998,39.758013,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis / St Joseph Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-84.51434990000001,39.112281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Herman's Monastary &amp; House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-81.717086,41.485661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>The Lamb Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-82.91740600000003,39.960318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Archbishop Oscar Romero Catholic Worker House
+</name>
+				<Point>
+					<coordinates>-97.53652399999999,35.490865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Enid Catholic Worker
+</name>
+				<Point>
+					<coordinates>-97.90097700000001,36.393771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Tulsa Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-95.85737230000001,36.0712031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>CW Farm of Sts. Isidore and Maria 
+</name>
+				<Point>
+					<coordinates>-123.73405500000001,44.136909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St. John Bosco House
+</name>
+				<Point>
+					<coordinates>-123.17262900000003,44.07198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Whitefeather Catholic Worker Community 
+</name>
+				<Point>
+					<coordinates>-122.70092599999998,45.578038,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day Catholic Worker Farm
+</name>
+				<Point>
+					<coordinates>-76.06318520000002,41.374119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Duncan &amp; Porter House 
+</name>
+				<Point>
+					<coordinates>-80.02581699999996,40.453328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>House of Grace Catholic Worker
+</name>
+				<Point>
+					<coordinates>-75.12512500000003,39.989107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mary the Apostle Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-80.06173799999999,42.120121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Sr Peter Claver House 
+</name>
+				<Point>
+					<coordinates>-75.14339009999998,39.9738407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St. Martin de Porres Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-76.8677692,40.2667302,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Thomas Merton Center 
+</name>
+				<Point>
+					<coordinates>-79.86934539999999,40.4166394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Amos House 
+</name>
+				<Point>
+					<coordinates>-71.41895799999998,41.812428,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-90.012943,35.14326399999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Emmanuel House
+</name>
+				<Point>
+					<coordinates>-90.00257899999997,35.1393879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Nashville Greenlands
+</name>
+				<Point>
+					<coordinates>-86.81487600000003,36.170151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Day House 
+</name>
+				<Point>
+					<coordinates>-97.11675860000003,33.2162347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Jonah House 
+</name>
+				<Point>
+					<coordinates>-96.79627299999999,32.737392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Maurin-Day House 
+</name>
+				<Point>
+					<coordinates>-97.40794799999998,27.796764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>San Antonio Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-98.473837,29.427245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Little Flower Catholic Worker Farm 
+</name>
+				<Point>
+					<coordinates>-78.09111289999998,38.0560091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Norfolk Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-76.30630500000001,36.879237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-77.667013,38.29543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Bethlehem Farm Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.94313799999998,46.664261,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Pacem in Terris 
+</name>
+				<Point>
+					<coordinates>-122.31043399999999,47.621482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Tacoma Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.44465000000002,47.248949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Alderson Hospitality House 
+</name>
+				<Point>
+					<coordinates>-80.64556149999999,37.7224296,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Appalachian Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-81.19669379999999,38.7531407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Family Worker Farm 
+</name>
+				<Point>
+					<coordinates>-82.0167849,38.0493007,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>A Place of Peace
+</name>
+				<Point>
+					<coordinates>-89.5804,44.5265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Anathoth Community Farm 
+</name>
+				<Point>
+					<coordinates>-92.29841069999998,45.5407795,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa Esther 
+</name>
+				<Point>
+					<coordinates>-88.74459809999996,44.0392284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa Maria Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-87.93939899999998,43.045148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gilbert House Catholic Worker
+</name>
+				<Point>
+					<coordinates>-92.16603950000001,45.0586023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Martin Luther Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-87.97759500000001,43.0699263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mary House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-89.65688820000003,43.73090819999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Place of Grace - A Catholic Worker Community 
+</name>
+				<Point>
+					<coordinates>-91.24401499999999,43.798801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Rising Sun Garden 
+</name>
+				<Point>
+					<coordinates>-90.77429589999997,43.3952551,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>The Jubilee House 
+</name>
+				<Point>
+					<coordinates>-89.64782450000001,44.9481517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Waukesha catholic Worker Community 
+</name>
+				<Point>
+					<coordinates>-88.21957399999997,43.009542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>San Diego Catholic Worker</name>
+				<Point>
+					<coordinates>-117.14178500000003,32.707595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>St Francis of Assisi Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-92.330736,42.496954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Noonday Farm </name>
+				<description><![CDATA[Winchendon Springs MA 01477]]></description>
+				<Point>
+					<coordinates>-72.015219,42.695468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>The Mustard Seed</name>
+				<Point>
+					<coordinates>-71.81262900000002,42.261719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mercy House</name>
+				<Point>
+					<coordinates>-83.71935910000002,42.2368637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Winona Catholic Worker</name>
+				<Point>
+					<coordinates>-91.65955500000001,44.0533209,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House 
+</name>
+				<Point>
+					<coordinates>-76.18181190000001,43.034627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Dorothy Day House of Hospitality 
+</name>
+				<Point>
+					<coordinates>-80.655776,41.110375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Jubilee Soup Kitchen 
+</name>
+				<Point>
+					<coordinates>-79.9773118,40.4384358,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Emmaus Catholic Worker House 
+</name>
+				<Point>
+					<coordinates>-97.40174769999999,42.871241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Casa Juan Diego 
+</name>
+				<Point>
+					<coordinates>-95.41027509999998,29.7691631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Mary House Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-97.78816669999998,30.1989753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Bread &amp; Roses Catholic Worker 
+</name>
+				<Point>
+					<coordinates>-122.88370700000002,47.042916,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
