@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/farms.html</string>
+	<string>communities/links.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -205,33 +205,19 @@
 				<integer>589</integer>
 			</dict>
 		</dict>
-		<key>communities/farms.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>160</integer>
-				<key>line</key>
-				<integer>11</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>communities/links.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>line</key>
-				<integer>45</integer>
+				<integer>94</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>96</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>30</integer>
+			<integer>72</integer>
 		</dict>
 		<key>dorothyday/_books/OnConscience.intro.md</key>
 		<dict>
@@ -437,8 +423,6 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory-picker.html</string>
-		<string>communities/farms.html</string>
-		<string>about/contact.html</string>
 		<string>_layouts/communities.html</string>
 		<string>announcements.html</string>
 		<string>boilerplate.html</string>
@@ -448,6 +432,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1365, 226}, {937, 800}}</string>
+	<string>{{1225, 382}, {937, 800}}</string>
 </dict>
 </plist>
