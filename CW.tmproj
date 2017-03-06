@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/links.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -129,7 +129,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>boilerplate.html</key>
 		<dict>
@@ -141,9 +141,23 @@
 				<integer>9</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
+			<integer>116</integer>
+			<key>firstVisibleLine</key>
+			<integer>23</integer>
+		</dict>
+		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>29</integer>
+			<integer>0</integer>
 		</dict>
 		<key>communities/directory-picker.html</key>
 		<dict>
@@ -217,21 +231,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>72</integer>
-		</dict>
-		<key>dorothyday/_books/OnConscience.intro.md</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>48</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -317,19 +317,33 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>faq.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>43</integer>
+				<integer>19</integer>
 				<key>line</key>
-				<integer>33</integer>
+				<integer>12967</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>21</integer>
+			<integer>12961</integer>
 		</dict>
 		<key>of-note.html</key>
 		<dict>
@@ -422,16 +436,13 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>communities/directory-picker.html</string>
-		<string>_layouts/communities.html</string>
 		<string>announcements.html</string>
-		<string>boilerplate.html</string>
-		<string>communities/links.html</string>
 		<string>index.html</string>
+		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1225, 382}, {937, 800}}</string>
+	<string>{{1120, 135}, {1126, 1198}}</string>
 </dict>
 </plist>
