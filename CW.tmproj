@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>index.html</string>
+	<string>dorothyday/_source/144.md</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -131,20 +131,6 @@
 				<integer>9</integer>
 			</dict>
 		</dict>
-		<key>announcements.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>16</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>boilerplate.html</key>
 		<dict>
 			<key>caret</key>
@@ -261,6 +247,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>dorothyday/_source/144.md</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>49</integer>
+				<key>line</key>
+				<integer>60</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>40</integer>
+		</dict>
 		<key>dorothyday/browse/tribune.html</key>
 		<dict>
 			<key>caret</key>
@@ -344,20 +344,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-		</dict>
-		<key>index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>13950</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>13912</integer>
 		</dict>
 		<key>of-note.html</key>
 		<dict>
@@ -450,14 +436,12 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>announcements.html</string>
-		<string>index.html</string>
-		<string>CNAME</string>
 		<string>boilerplate.html</string>
+		<string>dorothyday/_source/144.md</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1120, 135}, {1126, 1198}}</string>
+	<string>{{930, -3}, {1126, 1198}}</string>
 </dict>
 </plist>
