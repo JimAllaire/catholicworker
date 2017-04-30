@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>communities/directory.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -180,28 +180,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>23</integer>
+				<integer>54</integer>
 				<key>line</key>
-				<integer>75</integer>
+				<integer>1954</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>59</integer>
+			<integer>1922</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>43</integer>
+				<integer>269</integer>
 				<key>line</key>
-				<integer>3153</integer>
+				<integer>8173</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3119</integer>
+			<integer>8136</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -428,6 +428,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1040, 51}, {1126, 1198}}</string>
+	<string>{{1040, 56}, {1126, 1198}}</string>
 </dict>
 </plist>
