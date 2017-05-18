@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/websites.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -164,44 +164,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>57</integer>
 				<key>line</key>
-				<integer>1963</integer>
+				<integer>444</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1930</integer>
+			<integer>415</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>50</integer>
+				<integer>43</integer>
 				<key>line</key>
-				<integer>8199</integer>
+				<integer>1521</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>8165</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>21</integer>
-				<key>line</key>
-				<integer>8199</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>50</integer>
-				<key>line</key>
-				<integer>8199</integer>
-			</dict>
+			<integer>1514</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -428,6 +412,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1133, 56}, {1126, 1198}}</string>
+	<string>{{1199, 86}, {1126, 1198}}</string>
 </dict>
 </plist>
