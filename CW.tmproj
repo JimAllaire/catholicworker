@@ -199,6 +199,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>dorothyday/browse/tribune.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>43</integer>
+				<key>line</key>
+				<integer>2</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>dorothyday/search.html</key>
 		<dict>
 			<key>caret</key>
@@ -361,6 +375,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1379, 61}, {1126, 1198}}</string>
+	<string>{{1048, 150}, {1126, 1198}}</string>
 </dict>
 </plist>
