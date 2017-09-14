@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>currentDocument</key>
+	<string>communities/volunteers.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -157,6 +159,66 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>communities/directory-picker.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>50</integer>
+				<key>line</key>
+				<integer>1272</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1243</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>39</integer>
+				<key>line</key>
+				<integer>1272</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>50</integer>
+				<key>line</key>
+				<integer>1272</integer>
+			</dict>
+		</dict>
+		<key>communities/directory.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>196</integer>
+				<key>line</key>
+				<integer>5072</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>5052</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>5068</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>196</integer>
+				<key>line</key>
+				<integer>5072</integer>
+			</dict>
+		</dict>
 		<key>communities/links.html</key>
 		<dict>
 			<key>caret</key>
@@ -170,6 +232,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>48</integer>
+		</dict>
+		<key>communities/volunteers.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>197</integer>
+				<key>line</key>
+				<integer>500</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>110</integer>
+			<key>firstVisibleLine</key>
+			<integer>469</integer>
 		</dict>
 		<key>communities/websites.html</key>
 		<dict>
@@ -372,9 +448,16 @@
 			<integer>0</integer>
 		</dict>
 	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>communities/directory-picker.html</string>
+		<string>communities/directory.html</string>
+		<string>communities/volunteers.html</string>
+		<string>communities/websites.html</string>
+	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1048, 150}, {1126, 1198}}</string>
+	<string>{{1387, 160}, {1126, 1198}}</string>
 </dict>
 </plist>
