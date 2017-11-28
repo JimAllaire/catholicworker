@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>communities/farms.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -180,7 +180,7 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>56</integer>
+				<integer>59</integer>
 				<key>line</key>
 				<integer>743</integer>
 			</dict>
@@ -194,30 +194,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>97</integer>
+				<integer>668</integer>
 				<key>line</key>
-				<integer>2737</integer>
+				<integer>2982</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>2727</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>12</integer>
-				<key>line</key>
-				<integer>2737</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>97</integer>
-				<key>line</key>
-				<integer>2737</integer>
-			</dict>
+			<integer>2958</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -231,7 +215,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>38</integer>
+			<integer>0</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -252,14 +236,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>673</integer>
 				<key>line</key>
-				<integer>470</integer>
+				<integer>278</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>96</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>469</integer>
+			<integer>262</integer>
 		</dict>
 		<key>communities/websites.html</key>
 		<dict>
@@ -474,6 +458,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1331, 286}, {936, 1067}}</string>
+	<string>{{1009, 311}, {936, 1067}}</string>
 </dict>
 </plist>
