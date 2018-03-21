@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>communities/websites.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -40,11 +40,31 @@
 			<key>lastUsed</key>
 			<date>2016-07-04T20:10:50Z</date>
 		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../CW-ORG/Houses/houses-closed.html</string>
+			<key>lastUsed</key>
+			<date>2018-03-21T19:28:48Z</date>
+		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>350</integer>
 	<key>metaData</key>
 	<dict>
+		<key>../CW-ORG/Houses/houses-closed.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>715</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>663</integer>
+		</dict>
 		<key>CNAME</key>
 		<dict>
 			<key>caret</key>
@@ -180,28 +200,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>47</integer>
+				<integer>5</integer>
 				<key>line</key>
-				<integer>1105</integer>
+				<integer>1748</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1079</integer>
+			<integer>1722</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>9</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>3302</integer>
+				<integer>7122</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3280</integer>
+			<integer>7112</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -236,28 +256,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>581</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>441</integer>
+				<integer>204</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>421</integer>
+			<integer>181</integer>
 		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>93</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>536</integer>
+				<integer>708</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>514</integer>
+			<integer>707</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -450,13 +470,14 @@
 	<array>
 		<string>communities/directory-picker.html</string>
 		<string>communities/directory.html</string>
-		<string>boilerplate.html</string>
-		<string>communities/volunteers.html</string>
+		<string>../CW-ORG/Houses/houses-closed.html</string>
 		<string>communities/websites.html</string>
+		<string>communities/volunteers.html</string>
+		<string>communities/farms.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1210, -252}, {1135, 1067}}</string>
+	<string>{{1319, 19}, {1135, 1067}}</string>
 </dict>
 </plist>
