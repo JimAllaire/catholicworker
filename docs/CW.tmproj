@@ -214,30 +214,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>46</integer>
+				<integer>16</integer>
 				<key>line</key>
-				<integer>5755</integer>
+				<integer>5622</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>5735</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>41</integer>
-				<key>line</key>
-				<integer>5755</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>46</integer>
-				<key>line</key>
-				<integer>5755</integer>
-			</dict>
+			<integer>5613</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -494,6 +478,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1319, 56}, {1135, 1067}}</string>
+	<string>{{1225, 1}, {1135, 1067}}</string>
 </dict>
 </plist>
