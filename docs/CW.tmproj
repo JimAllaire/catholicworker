@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/20.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>filename</key>
 			<string>communities/houses/109.html</string>
 			<key>lastUsed</key>
-			<date>2018-06-05T15:58:53Z</date>
+			<date>2018-06-05T20:06:26Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -153,36 +153,6 @@
 				<integer>9</integer>
 			</dict>
 		</dict>
-		<key>boilerplate.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>8</integer>
-				<key>line</key>
-				<integer>72</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>39</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>1</integer>
-				<key>line</key>
-				<integer>71</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>8</integer>
-				<key>line</key>
-				<integer>72</integer>
-			</dict>
-		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
 			<key>caret</key>
@@ -202,43 +172,43 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>5</integer>
 				<key>line</key>
-				<integer>1105</integer>
+				<integer>200</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>98</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1089</integer>
+			<integer>196</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>294</integer>
+				<integer>139</integer>
 				<key>line</key>
-				<integer>4163</integer>
+				<integer>471</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>392</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>4151</integer>
+			<integer>453</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>1</integer>
 				<key>line</key>
-				<integer>4122</integer>
+				<integer>439</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>294</integer>
+				<integer>139</integer>
 				<key>line</key>
-				<integer>4163</integer>
+				<integer>471</integer>
 			</dict>
 		</dict>
 		<key>communities/farms.html</key>
@@ -273,9 +243,9 @@
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>4</integer>
 				<key>line</key>
-				<integer>33</integer>
+				<integer>42</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
@@ -285,49 +255,19 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<key>communities/houses/11.html</key>
+		<key>communities/houses/3.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>54</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>33</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>7</integer>
-				<key>line</key>
-				<integer>56</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>54</integer>
-			</dict>
-		</dict>
-		<key>communities/houses/20.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>30</integer>
+				<integer>49</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>10</integer>
+			<integer>18</integer>
 		</dict>
 		<key>communities/houses/79.html</key>
 		<dict>
@@ -372,6 +312,36 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>3</integer>
+		</dict>
+		<key>communities/houses/house-page.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>20</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>20</integer>
+			</dict>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -564,15 +534,12 @@
 		<string>communities/farms.html</string>
 		<string>communities/directory.html</string>
 		<string>communities/volunteers.html</string>
-		<string>communities/houses/88.html</string>
-		<string>communities/houses/20.html</string>
 		<string>../CW-ORG/Houses/houses-closed.html</string>
-		<string>boilerplate.html</string>
-		<string>communities/houses/11.html</string>
+		<string>communities/houses/house-page.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1138, 322}, {916, 728}}</string>
+	<string>{{1067, 303}, {916, 728}}</string>
 </dict>
 </plist>
