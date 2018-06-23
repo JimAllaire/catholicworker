@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/house-page.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -50,13 +50,13 @@
 			<key>filename</key>
 			<string>../CW-ORG/Houses/houses-closed.html</string>
 			<key>lastUsed</key>
-			<date>2018-06-13T20:57:44Z</date>
+			<date>2018-06-22T20:57:01Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>communities/houses/17.html</string>
+			<string>communities/houses/casa-de-clara-san-jose-CA.html</string>
 			<key>lastUsed</key>
-			<date>2018-05-17T19:04:45Z</date>
+			<date>2018-06-21T20:11:00Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -86,14 +86,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>4</integer>
 				<key>line</key>
-				<integer>821</integer>
+				<integer>990</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>287</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>791</integer>
+			<integer>932</integer>
 		</dict>
 		<key>404.md</key>
 		<dict>
@@ -167,7 +167,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>8</integer>
+			<integer>61</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
@@ -202,14 +202,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>3</integer>
+				<integer>141</integer>
 				<key>line</key>
-				<integer>1297</integer>
+				<integer>423</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1284</integer>
+			<integer>668</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -218,12 +218,12 @@
 				<key>column</key>
 				<integer>1</integer>
 				<key>line</key>
-				<integer>5125</integer>
+				<integer>1354</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>7694</integer>
+			<integer>1354</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -268,6 +268,20 @@
 				<key>line</key>
 				<integer>38</integer>
 			</dict>
+		</dict>
+		<key>communities/houses/20.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>30</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/3.html</key>
 		<dict>
@@ -341,14 +355,58 @@
 			<key>firstVisibleLine</key>
 			<integer>3</integer>
 		</dict>
+		<key>communities/houses/casa-de-clara-san-jose-CA.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>16</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1</integer>
+		</dict>
 		<key>communities/houses/house-page.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>124</integer>
+				<integer>4</integer>
 				<key>line</key>
-				<integer>41</integer>
+				<integer>24</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>11</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>23</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>24</integer>
+			</dict>
+		</dict>
+		<key>communities/houses/wallyhouse-cw-honolulu-HI.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>12</integer>
+				<key>line</key>
+				<integer>12</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -543,17 +601,17 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory-picker.html</string>
-		<string>communities/farms.html</string>
+		<string>communities/houses/wallyhouse-cw-honolulu-HI.html</string>
 		<string>communities/directory.html</string>
-		<string>communities/houses/320.html</string>
 		<string>communities/volunteers.html</string>
 		<string>../CW-ORG/Houses/houses-closed.html</string>
+		<string>communities/houses/20.html</string>
 		<string>communities/houses/house-page.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1067, 303}, {916, 728}}</string>
+	<string>{{1561, 301}, {916, 728}}</string>
 </dict>
 </plist>
