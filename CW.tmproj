@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/volunteers.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -202,14 +202,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>3</integer>
 				<key>line</key>
-				<integer>797</integer>
+				<integer>1485</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>780</integer>
+			<integer>1481</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -283,50 +283,6 @@
 			<key>firstVisibleLine</key>
 			<integer>18</integer>
 		</dict>
-		<key>communities/houses/320.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>25</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>communities/houses/79.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>7</integer>
-				<key>line</key>
-				<integer>40</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
 		<key>communities/houses/88.html</key>
 		<dict>
 			<key>caret</key>
@@ -341,28 +297,14 @@
 			<key>firstVisibleLine</key>
 			<integer>3</integer>
 		</dict>
-		<key>communities/houses/casa-de-clara-san-jose-CA.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>16</integer>
-				<key>line</key>
-				<integer>17</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>1</integer>
-		</dict>
 		<key>communities/houses/house-page.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>82</integer>
 				<key>line</key>
-				<integer>24</integer>
+				<integer>21</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -375,59 +317,15 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>23</integer>
+				<integer>21</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>82</integer>
 				<key>line</key>
-				<integer>24</integer>
+				<integer>21</integer>
 			</dict>
-		</dict>
-		<key>communities/houses/nashville-greenlands-nashville-TN.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>84</integer>
-				<key>line</key>
-				<integer>14</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>2</integer>
-				<key>line</key>
-				<integer>12</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>84</integer>
-				<key>line</key>
-				<integer>14</integer>
-			</dict>
-		</dict>
-		<key>communities/houses/wallyhouse-cw-honolulu-HI.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>12</integer>
-				<key>line</key>
-				<integer>12</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
 		</dict>
 		<key>communities/links.html</key>
 		<dict>
@@ -448,28 +346,44 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>6</integer>
+				<integer>258</integer>
 				<key>line</key>
-				<integer>517</integer>
+				<integer>513</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>507</integer>
+			<integer>455</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>249</integer>
+				<key>line</key>
+				<integer>513</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>258</integer>
+				<key>line</key>
+				<integer>513</integer>
+			</dict>
 		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>104</integer>
 				<key>line</key>
-				<integer>429</integer>
+				<integer>725</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>73</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>412</integer>
+			<integer>713</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -618,16 +532,14 @@
 	<array>
 		<string>communities/directory-picker.html</string>
 		<string>communities/directory.html</string>
-		<string>communities/houses/nashville-greenlands-nashville-TN.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/volunteers.html</string>
-		<string>../CW-ORG/Houses/houses-closed.html</string>
 		<string>communities/houses/house-page.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1538, 264}, {916, 728}}</string>
+	<string>{{1600, 283}, {916, 728}}</string>
 </dict>
 </plist>
