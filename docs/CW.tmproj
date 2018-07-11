@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/ok-tulsa-stanley-rother-cw.html</string>
+	<string>announcements.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2018-05-20T16:00:18Z</date>
+			<date>2018-06-28T16:11:03Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -153,6 +153,20 @@
 				<integer>9</integer>
 			</dict>
 		</dict>
+		<key>announcements.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>23</integer>
+				<key>line</key>
+				<integer>5</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>boilerplate.html</key>
 		<dict>
 			<key>caret</key>
@@ -167,7 +181,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>61</integer>
+			<integer>43</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
@@ -216,57 +230,57 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>1</integer>
+				<integer>47</integer>
 				<key>line</key>
-				<integer>2752</integer>
+				<integer>2747</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>2752</integer>
+			<integer>2741</integer>
 		</dict>
-		<key>communities/houses/aa-new-html.html</key>
+		<key>communities/houses/ca-san-diego-catholic-worker.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>22</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>13</integer>
 		</dict>
 		<key>communities/houses/house-page.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>82</integer>
+				<integer>100</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>23</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>23</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>82</integer>
+				<integer>100</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>23</integer>
 			</dict>
 		</dict>
 		<key>communities/houses/ny-new-york-maryhouse.html</key>
@@ -277,20 +291,6 @@
 				<integer>0</integer>
 				<key>line</key>
 				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>communities/houses/ok-tulsa-stanley-rother-cw.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>25</integer>
-				<key>line</key>
-				<integer>16</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -316,29 +316,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>258</integer>
+				<integer>641</integer>
 				<key>line</key>
-				<integer>513</integer>
+				<integer>389</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>455</integer>
+			<integer>375</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>249</integer>
+				<integer>613</integer>
 				<key>line</key>
-				<integer>513</integer>
+				<integer>389</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>258</integer>
+				<integer>641</integer>
 				<key>line</key>
-				<integer>513</integer>
+				<integer>389</integer>
 			</dict>
 		</dict>
 		<key>communities/websites.html</key>
@@ -346,14 +346,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>104</integer>
+				<integer>31</integer>
 				<key>line</key>
-				<integer>725</integer>
+				<integer>427</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>713</integer>
+			<integer>418</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -501,17 +501,17 @@
 	<key>openDocuments</key>
 	<array>
 		<string>communities/directory-picker.html</string>
-		<string>communities/houses/aa-new-html.html</string>
-		<string>communities/houses/ok-tulsa-stanley-rother-cw.html</string>
 		<string>communities/directory.html</string>
+		<string>announcements.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/volunteers.html</string>
 		<string>communities/houses/house-page.html</string>
 		<string>boilerplate.html</string>
+		<string>communities/houses/ca-san-diego-catholic-worker.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1600, 283}, {916, 728}}</string>
+	<string>{{1498, 282}, {916, 728}}</string>
 </dict>
 </plist>
