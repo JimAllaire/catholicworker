@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>../CW-ORG/Houses/houses-closed.html</string>
+	<string>communities/houses/nc-durham-rose-of-sharon-cw.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -50,9 +50,7 @@
 			<key>filename</key>
 			<string>../CW-ORG/Houses/houses-closed.html</string>
 			<key>lastUsed</key>
-			<date>2018-08-04T16:22:41Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2018-09-07T16:11:39Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -95,7 +93,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1623</integer>
+			<integer>1620</integer>
 		</dict>
 		<key>404.md</key>
 		<dict>
@@ -174,14 +172,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>1356</integer>
+				<integer>1102</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1340</integer>
+			<integer>1086</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -230,9 +228,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>124</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>38</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -245,15 +243,29 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>26</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>124</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>38</integer>
 			</dict>
+		</dict>
+		<key>communities/houses/nc-durham-rose-of-sharon-cw.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>26</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/ny-new-york-maryhouse.html</key>
 		<dict>
@@ -477,12 +489,13 @@
 		<string>communities/directory.html</string>
 		<string>communities/farms.html</string>
 		<string>../CW-ORG/Houses/houses-closed.html</string>
+		<string>communities/houses/nc-durham-rose-of-sharon-cw.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/houses/house-page.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1272, 150}, {1038, 729}}</string>
+	<string>{{1349, 183}, {1038, 729}}</string>
 </dict>
 </plist>
