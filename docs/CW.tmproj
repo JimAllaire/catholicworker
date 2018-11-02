@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>announcements.html</string>
+	<string>communities/websites.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -152,20 +152,6 @@
 				<key>line</key>
 				<integer>9</integer>
 			</dict>
-		</dict>
-		<key>announcements.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>225</integer>
-				<key>line</key>
-				<integer>30</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>21</integer>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -339,6 +325,20 @@
 			<key>firstVisibleLine</key>
 			<integer>231</integer>
 		</dict>
+		<key>communities/websites.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>581</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>569</integer>
+		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
 			<key>caret</key>
@@ -498,12 +498,11 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>announcements.html</string>
-		<string>index.html</string>
+		<string>communities/websites.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{908, 362}, {996, 612}}</string>
+	<string>{{905, 322}, {996, 612}}</string>
 </dict>
 </plist>
