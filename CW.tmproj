@@ -54,31 +54,13 @@
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>communities/houses/casa-de-clara-san-jose-CA.html</string>
-			<key>lastUsed</key>
-			<date>2018-06-21T20:11:00Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>communities/houses/78.html</string>
-			<key>lastUsed</key>
-			<date>2018-05-18T20:48:58Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>communities/houses/109.html</string>
-			<key>lastUsed</key>
-			<date>2018-06-05T20:06:26Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
 			<string>communities/houses/ny-new-york-maryhouse.html</string>
 			<key>lastUsed</key>
 			<date>2018-06-27T13:36:33Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>411</integer>
+	<integer>397</integer>
 	<key>metaData</key>
 	<dict>
 		<key>../CW-ORG/Houses/houses-closed.html</key>
@@ -172,14 +154,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>3</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>879</integer>
+				<integer>1465</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>863</integer>
+			<integer>1451</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -188,26 +170,12 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>1035</integer>
+				<integer>1300</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1026</integer>
-		</dict>
-		<key>communities/farms.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>101</integer>
-				<key>line</key>
-				<integer>48</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>35</integer>
+			<integer>1292</integer>
 		</dict>
 		<key>communities/houses/aa-new-html.html</key>
 		<dict>
@@ -216,7 +184,7 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>18</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -227,16 +195,16 @@
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>22</integer>
+				<integer>0</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>18</integer>
 			</dict>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
@@ -526,15 +494,13 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>communities/directory.html</string>
 		<string>communities/houses/aa-new-html.html</string>
-		<string>communities/websites.html</string>
+		<string>communities/directory.html</string>
 		<string>communities/directory-picker.html</string>
-		<string>communities/farms.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{863, 81}, {981, 639}}</string>
+	<string>{{1007, 81}, {792, 647}}</string>
 </dict>
 </plist>
