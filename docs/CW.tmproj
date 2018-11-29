@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2018-06-28T16:11:03Z</date>
+			<date>2018-11-28T14:59:33Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -135,6 +135,36 @@
 				<integer>9</integer>
 			</dict>
 		</dict>
+		<key>boilerplate.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>124</integer>
+				<key>line</key>
+				<integer>28</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>40</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>124</integer>
+				<key>line</key>
+				<integer>28</integer>
+			</dict>
+		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
 			<key>caret</key>
@@ -154,14 +184,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>6</integer>
+				<integer>25</integer>
 				<key>line</key>
-				<integer>1465</integer>
+				<integer>137</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1451</integer>
+			<integer>0</integer>
 		</dict>
 		<key>communities/directory.html</key>
 		<dict>
@@ -173,9 +203,9 @@
 				<integer>1300</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>85</integer>
 			<key>firstVisibleLine</key>
-			<integer>1292</integer>
+			<integer>261</integer>
 		</dict>
 		<key>communities/houses/aa-new-html.html</key>
 		<dict>
@@ -234,36 +264,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>13</integer>
-		</dict>
-		<key>communities/houses/house-page.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>124</integer>
-				<key>line</key>
-				<integer>38</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>6</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>26</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>124</integer>
-				<key>line</key>
-				<integer>38</integer>
-			</dict>
 		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
@@ -433,20 +433,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>57</integer>
-				<key>line</key>
-				<integer>48</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>51</integer>
-		</dict>
 		<key>of-note.html</key>
 		<dict>
 			<key>caret</key>
@@ -497,6 +483,7 @@
 		<string>communities/houses/aa-new-html.html</string>
 		<string>communities/directory.html</string>
 		<string>communities/directory-picker.html</string>
+		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
