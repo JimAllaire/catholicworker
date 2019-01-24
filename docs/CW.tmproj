@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/ma-newton-catholic-worker-org.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>filename</key>
 			<string>../CW-ORG/Houses/houses-closed.html</string>
 			<key>lastUsed</key>
-			<date>2018-10-06T18:12:37Z</date>
+			<date>2019-01-24T17:00:52Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -68,14 +68,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>1647</integer>
+				<integer>1679</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1620</integer>
+			<integer>1639</integer>
 		</dict>
 		<key>404.md</key>
 		<dict>
@@ -104,34 +104,6 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-		</dict>
-		<key>_layouts/article.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>_layouts/layout.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>26</integer>
 		</dict>
 		<key>about/contact.html</key>
 		<dict>
@@ -212,9 +184,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>970</integer>
+				<integer>944</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -263,20 +235,6 @@
 			<key>firstVisibleLine</key>
 			<integer>13</integer>
 		</dict>
-		<key>communities/houses/ma-newton-catholic-worker-org.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>27</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>8</integer>
-		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
 			<key>caret</key>
@@ -305,14 +263,28 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>communities/houses/ny-ithaca-ithaca-catholic-worker.html</key>
+		<key>communities/houses/nc-pittsboro-community-of-the-franciscan-way.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>63</integer>
+				<integer>22</integer>
 				<key>line</key>
-				<integer>14</integer>
+				<integer>16</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>communities/houses/nc-siler-city-silk-hope.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -362,20 +334,6 @@
 			<integer>504</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>dorothyday/browse/call.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -506,18 +464,16 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>dorothyday/browse/call.html</string>
 		<string>communities/directory-picker.html</string>
-		<string>communities/houses/ma-newton-catholic-worker-org.html</string>
-		<string>_layouts/article.html</string>
-		<string>_layouts/layout.html</string>
-		<string>communities/houses/ny-ithaca-ithaca-catholic-worker.html</string>
+		<string>../CW-ORG/Houses/houses-closed.html</string>
+		<string>communities/houses/nc-siler-city-silk-hope.html</string>
+		<string>communities/houses/nc-pittsboro-community-of-the-franciscan-way.html</string>
 		<string>communities/websites.html</string>
 		<string>communities/farms.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{916, 259}, {1055, 810}}</string>
+	<string>{{1355, 140}, {1055, 810}}</string>
 </dict>
 </plist>
