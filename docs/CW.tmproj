@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/farms.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -134,6 +134,20 @@
 				<key>line</key>
 				<integer>9</integer>
 			</dict>
+		</dict>
+		<key>announcements.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>70</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>47</integer>
 		</dict>
 		<key>boilerplate.html</key>
 		<dict>
@@ -417,6 +431,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>33</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>27</integer>
+		</dict>
 		<key>of-note.html</key>
 		<dict>
 			<key>caret</key>
@@ -469,6 +497,8 @@
 		<string>communities/websites.html</string>
 		<string>communities/houses/nc-pittsboro-community-of-the-franciscan-way.html</string>
 		<string>communities/farms.html</string>
+		<string>index.html</string>
+		<string>announcements.html</string>
 		<string>boilerplate.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
