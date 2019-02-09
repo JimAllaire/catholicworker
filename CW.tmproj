@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>index.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>filename</key>
 			<string>../CW-ORG/Houses/houses-closed.html</string>
 			<key>lastUsed</key>
-			<date>2019-01-24T17:00:52Z</date>
+			<date>2019-02-08T16:42:55Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -75,7 +75,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1639</integer>
+			<integer>1596</integer>
 		</dict>
 		<key>404.md</key>
 		<dict>
@@ -156,14 +156,14 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>62</integer>
+				<integer>61</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>44</integer>
+			<integer>43</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
@@ -176,7 +176,7 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>62</integer>
+				<integer>61</integer>
 			</dict>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
@@ -198,28 +198,58 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>1021</integer>
+				<integer>1298</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>81</integer>
+			<integer>33</integer>
 			<key>firstVisibleLine</key>
-			<integer>1003</integer>
+			<integer>1281</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>109</integer>
 				<key>line</key>
-				<integer>37</integer>
+				<integer>101</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>36</integer>
+			<integer>83</integer>
+		</dict>
+		<key>communities/houses/aa-new-html.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>83</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
@@ -248,6 +278,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>13</integer>
+		</dict>
+		<key>communities/houses/int-canada-parkland-cw.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>51</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
@@ -338,14 +382,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>4</integer>
 				<key>line</key>
-				<integer>548</integer>
+				<integer>808</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>546</integer>
+			<integer>791</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>807</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>808</integer>
+			</dict>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -431,20 +491,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>5</integer>
-				<key>line</key>
-				<integer>33</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>27</integer>
-		</dict>
 		<key>of-note.html</key>
 		<dict>
 			<key>caret</key>
@@ -495,15 +541,14 @@
 		<string>communities/directory-picker.html</string>
 		<string>../CW-ORG/Houses/houses-closed.html</string>
 		<string>communities/websites.html</string>
-		<string>communities/houses/nc-pittsboro-community-of-the-franciscan-way.html</string>
 		<string>communities/farms.html</string>
-		<string>index.html</string>
-		<string>announcements.html</string>
 		<string>boilerplate.html</string>
+		<string>communities/houses/aa-new-html.html</string>
+		<string>communities/houses/int-canada-parkland-cw.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1326, 142}, {1055, 810}}</string>
+	<string>{{1262, 72}, {1055, 810}}</string>
 </dict>
 </plist>
