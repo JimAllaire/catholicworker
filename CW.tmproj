@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>communities/houses/il-champaign-st-judes.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2018-11-28T14:59:33Z</date>
+			<date>2019-02-12T21:26:42Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -198,14 +198,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>line</key>
-				<integer>1298</integer>
+				<integer>423</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>33</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1281</integer>
+			<integer>409</integer>
+		</dict>
+		<key>communities/directory.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>1300</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1286</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
@@ -221,36 +235,6 @@
 			<key>firstVisibleLine</key>
 			<integer>83</integer>
 		</dict>
-		<key>communities/houses/aa-new-html.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>83</integer>
-				<key>line</key>
-				<integer>21</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
 			<key>caret</key>
@@ -265,6 +249,36 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>communities/houses/ca-oakland-oakland-cw.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>97</integer>
+				<key>line</key>
+				<integer>18</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>6</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>97</integer>
+				<key>line</key>
+				<integer>18</integer>
+			</dict>
+		</dict>
 		<key>communities/houses/ca-san-diego-catholic-worker.html</key>
 		<dict>
 			<key>caret</key>
@@ -278,6 +292,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>13</integer>
+		</dict>
+		<key>communities/houses/il-champaign-st-judes.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>24</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/int-canada-parkland-cw.html</key>
 		<dict>
@@ -543,11 +571,13 @@
 		<string>communities/websites.html</string>
 		<string>communities/farms.html</string>
 		<string>boilerplate.html</string>
-		<string>communities/houses/aa-new-html.html</string>
+		<string>communities/houses/il-champaign-st-judes.html</string>
+		<string>communities/houses/ca-oakland-oakland-cw.html</string>
+		<string>communities/directory.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1262, 72}, {1055, 810}}</string>
+	<string>{{1015, 334}, {1055, 810}}</string>
 </dict>
 </plist>
