@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/browse/call.html</string>
+	<string>dorothyday/browse/item.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -92,6 +92,48 @@
 			<integer>0</integer>
 		</dict>
 		<key>CNAME</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>_layouts/decades.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>_layouts/dorothyday.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>_layouts/theme.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -352,14 +394,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
+				<integer>3</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>88</integer>
+				<integer>0</integer>
 			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>91</integer>
-			<key>firstVisibleLine</key>
-			<integer>59</integer>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>3</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
 		</dict>
 		<key>dorothyday/browse/20s.html</key>
 		<dict>
@@ -375,6 +433,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>dorothyday/browse/30s.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>6</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>13</integer>
+		</dict>
 		<key>dorothyday/browse/40s.html</key>
 		<dict>
 			<key>caret</key>
@@ -389,6 +461,20 @@
 			<key>firstVisibleLine</key>
 			<integer>12</integer>
 		</dict>
+		<key>dorothyday/browse/EV.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>dorothyday/browse/call.html</key>
 		<dict>
 			<key>caret</key>
@@ -399,18 +485,46 @@
 				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>71</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>15</integer>
+			<integer>0</integer>
 		</dict>
-		<key>dorothyday/browse/pre30s.html</key>
+		<key>dorothyday/browse/index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>4</integer>
+				<integer>10</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>dorothyday/browse/item.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>dorothyday/browse/pre30s.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>18</integer>
+				<key>line</key>
+				<integer>17</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -580,12 +694,19 @@
 		<string>dorothyday/browse/40s.html</string>
 		<string>dorothyday/browse/20s.html</string>
 		<string>dorothyday/browse/pre30s.html</string>
+		<string>dorothyday/browse/item.html</string>
+		<string>_layouts/decades.html</string>
+		<string>_layouts/dorothyday.html</string>
+		<string>dorothyday/browse/index.html</string>
+		<string>_layouts/theme.html</string>
+		<string>dorothyday/browse/30s.html</string>
 		<string>dorothyday/browse/tribune.html</string>
+		<string>dorothyday/browse/EV.html</string>
 		<string>dorothyday/browse/call.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1125, 233}, {1055, 810}}</string>
+	<string>{{1220, 89}, {1055, 810}}</string>
 </dict>
 </plist>
