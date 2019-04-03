@@ -554,30 +554,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>31</integer>
+				<integer>54</integer>
 				<key>line</key>
-				<integer>58</integer>
+				<integer>63</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>50</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>29</integer>
-				<key>line</key>
-				<integer>58</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>31</integer>
-				<key>line</key>
-				<integer>58</integer>
-			</dict>
+			<integer>0</integer>
 		</dict>
 		<key>dorothyday/browse/pre30s.html</key>
 		<dict>
@@ -747,6 +731,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1100, 72}, {1055, 810}}</string>
+	<string>{{1115, 190}, {1055, 810}}</string>
 </dict>
 </plist>
