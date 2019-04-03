@@ -554,14 +554,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>155</integer>
+				<integer>31</integer>
 				<key>line</key>
-				<integer>68</integer>
+				<integer>58</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>42</integer>
+			<integer>50</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>29</integer>
+				<key>line</key>
+				<integer>58</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
+				<key>line</key>
+				<integer>58</integer>
+			</dict>
 		</dict>
 		<key>dorothyday/browse/pre30s.html</key>
 		<dict>
