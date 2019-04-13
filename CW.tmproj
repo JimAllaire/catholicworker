@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dorothyday/browse/pre30s.html</string>
+	<string>communities/houses/or-eugene-cw-community.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -407,6 +407,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>communities/houses/or-eugene-cw-community.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>21</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
@@ -755,6 +769,7 @@
 		<string>dorothyday/browse/item.html</string>
 		<string>communities/houses/aa-new-html.html</string>
 		<string>dorothyday/browse/pre30s.html</string>
+		<string>communities/houses/or-eugene-cw-community.html</string>
 		<string>dorothyday/browse/item-intro.html</string>
 		<string>dorothyday/browse/eye-intro.html</string>
 		<string>dorothyday/browse/call.html</string>
@@ -762,6 +777,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1359, 146}, {1055, 810}}</string>
+	<string>{{1310, 358}, {1055, 810}}</string>
 </dict>
 </plist>
