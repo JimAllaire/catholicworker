@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>boilerplate.html</string>
+	<string>communities/houses/aa-new-html.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2019-05-31T13:44:37Z</date>
+			<date>2019-06-02T19:04:18Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -119,6 +119,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>_layouts/petermaurin.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>30</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>_layouts/theme.html</key>
 		<dict>
 			<key>caret</key>
@@ -182,14 +196,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>17</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>3</integer>
+				<integer>41</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>64</integer>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -210,44 +224,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>122</integer>
+				<integer>0</integer>
 				<key>line</key>
 				<integer>640</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>74</integer>
 			<key>firstVisibleLine</key>
-			<integer>632</integer>
+			<integer>645</integer>
 		</dict>
 		<key>communities/houses/aa-new-html.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>83</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>4</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>1</integer>
-				<key>line</key>
-				<integer>21</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>83</integer>
-				<key>line</key>
-				<integer>21</integer>
-			</dict>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
@@ -767,10 +765,11 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
+		<string>communities/houses/aa-new-html.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1207, 336}, {1055, 810}}</string>
+	<string>{{1171, 329}, {1228, 810}}</string>
 </dict>
 </plist>
