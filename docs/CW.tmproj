@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/mn-duluth-hildegard-house-cw.html</string>
+	<string>communities/houses/nm-albuquerque-francis-house-cw.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -60,7 +60,7 @@
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>301</integer>
+	<integer>308</integer>
 	<key>metaData</key>
 	<dict>
 		<key>../CW-ORG/Houses/houses-closed.html</key>
@@ -198,12 +198,28 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>41</integer>
+				<integer>40</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>64</integer>
+			<integer>24</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>27</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>40</integer>
+			</dict>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -224,14 +240,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>5</integer>
 				<key>line</key>
-				<integer>640</integer>
+				<integer>787</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>74</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>645</integer>
+			<integer>773</integer>
 		</dict>
 		<key>communities/houses/aa-new-html.html</key>
 		<dict>
@@ -240,12 +256,28 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>4</integer>
+				<integer>0</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>84</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
@@ -319,20 +351,6 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>communities/houses/mn-duluth-hildegard-house-cw.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>31</integer>
-				<key>line</key>
-				<integer>23</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>101</integer>
-			<key>firstVisibleLine</key>
-			<integer>21</integer>
-		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
 			<key>caret</key>
@@ -346,6 +364,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>1</integer>
+		</dict>
+		<key>communities/houses/mn-stillwater-solanus-casey-house-of-hospitality.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>32</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>2</integer>
 		</dict>
 		<key>communities/houses/nc-durham-rose-of-sharon-cw.html</key>
 		<dict>
@@ -388,6 +420,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>communities/houses/nm-albuquerque-francis-house-cw.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>21</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>4</integer>
 		</dict>
 		<key>communities/houses/ny-new-york-maryhouse.html</key>
 		<dict>
@@ -779,12 +825,14 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
+		<string>communities/houses/nm-albuquerque-francis-house-cw.html</string>
+		<string>communities/houses/mn-stillwater-solanus-casey-house-of-hospitality.html</string>
+		<string>communities/directory-picker.html</string>
 		<string>communities/houses/aa-new-html.html</string>
-		<string>communities/houses/mn-duluth-hildegard-house-cw.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1259, 294}, {1228, 810}}</string>
+	<string>{{1467, 390}, {1036, 810}}</string>
 </dict>
 </plist>
