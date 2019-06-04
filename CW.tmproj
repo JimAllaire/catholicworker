@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/aa-new-html.html</string>
+	<string>communities/houses/mn-duluth-hildegard-house-cw.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -318,6 +318,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>communities/houses/mn-duluth-hildegard-house-cw.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
+				<key>line</key>
+				<integer>23</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>101</integer>
+			<key>firstVisibleLine</key>
+			<integer>21</integer>
 		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
@@ -766,10 +780,11 @@
 	<array>
 		<string>boilerplate.html</string>
 		<string>communities/houses/aa-new-html.html</string>
+		<string>communities/houses/mn-duluth-hildegard-house-cw.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1171, 329}, {1228, 810}}</string>
+	<string>{{1259, 294}, {1228, 810}}</string>
 </dict>
 </plist>
