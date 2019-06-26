@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/nm-albuquerque-francis-house-cw.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -247,37 +247,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>773</integer>
-		</dict>
-		<key>communities/houses/aa-new-html.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>84</integer>
-				<key>line</key>
-				<integer>21</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
+			<integer>771</integer>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
@@ -433,7 +403,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>4</integer>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/ny-new-york-maryhouse.html</key>
 		<dict>
@@ -807,6 +777,20 @@
 				<integer>21</integer>
 			</dict>
 		</dict>
+		<key>pages/dd-interesting-facts.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>pages/ellsberg-called-saints.html</key>
 		<dict>
 			<key>caret</key>
@@ -825,14 +809,12 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
-		<string>communities/houses/nm-albuquerque-francis-house-cw.html</string>
-		<string>communities/houses/mn-stillwater-solanus-casey-house-of-hospitality.html</string>
+		<string>pages/dd-interesting-facts.html</string>
 		<string>communities/directory-picker.html</string>
-		<string>communities/houses/aa-new-html.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1467, 390}, {1036, 810}}</string>
+	<string>{{1085, 302}, {1036, 810}}</string>
 </dict>
 </plist>
