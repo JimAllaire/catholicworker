@@ -240,14 +240,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>4</integer>
 				<key>line</key>
-				<integer>787</integer>
+				<integer>615</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>771</integer>
+			<integer>601</integer>
 		</dict>
 		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
 		<dict>
@@ -320,6 +320,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>communities/houses/me-millinocket-st-francis-house-of-hospitality.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>27</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>10</integer>
 		</dict>
 		<key>communities/houses/mn-duluth-loaves-and-fishes-community.html</key>
 		<dict>
@@ -809,12 +823,12 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
-		<string>pages/dd-interesting-facts.html</string>
 		<string>communities/directory-picker.html</string>
+		<string>communities/houses/me-millinocket-st-francis-house-of-hospitality.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1085, 302}, {1036, 810}}</string>
+	<string>{{1440, 296}, {1036, 810}}</string>
 </dict>
 </plist>
