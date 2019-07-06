@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>boilerplate.html</string>
+	<string>communities/houses/az-prescott-quixotes-garage.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2019-06-29T15:45:11Z</date>
+			<date>2019-07-05T19:30:05Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -196,14 +196,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
+				<integer>51</integer>
+				<key>line</key>
+				<integer>113</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>85</integer>
+			<key>firstVisibleLine</key>
+			<integer>95</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>43</integer>
+				<integer>113</integer>
 			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>51</integer>
+				<key>line</key>
+				<integer>113</integer>
+			</dict>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -219,28 +235,28 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>communities/directory-picker.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>4</integer>
-				<key>line</key>
-				<integer>615</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>581</integer>
-		</dict>
-		<key>communities/houses/ca-berkeley-dorothy-day-house.html</key>
+		<key>communities/houses/aa-new-html.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>3</integer>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>communities/houses/az-prescott-quixotes-garage.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>7</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -422,30 +438,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>110</integer>
+				<integer>111</integer>
 				<key>line</key>
-				<integer>256</integer>
+				<integer>711</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>913</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>256</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>110</integer>
-				<key>line</key>
-				<integer>256</integer>
-			</dict>
+			<integer>122</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -823,12 +823,13 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
-		<string>communities/directory-picker.html</string>
+		<string>communities/houses/az-prescott-quixotes-garage.html</string>
+		<string>communities/houses/aa-new-html.html</string>
 		<string>communities/websites.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1440, 296}, {1036, 810}}</string>
+	<string>{{1347, 283}, {1036, 1016}}</string>
 </dict>
 </plist>
