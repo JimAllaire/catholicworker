@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/houses/az-prescott-quixotes-garage.html</string>
+	<string>communities/houses/ca-santa-ana-isaiah-house.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2019-07-05T19:30:05Z</date>
+			<date>2019-07-08T14:12:34Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -196,30 +196,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>51</integer>
+				<integer>11</integer>
 				<key>line</key>
-				<integer>113</integer>
+				<integer>16</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>85</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>95</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>113</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>51</integer>
-				<key>line</key>
-				<integer>113</integer>
-			</dict>
+			<integer>0</integer>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -249,63 +233,19 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>communities/houses/az-prescott-quixotes-garage.html</key>
+		<key>communities/houses/ca-santa-ana-isaiah-house.html</key>
 		<dict>
 			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>1</integer>
-				<key>line</key>
-				<integer>7</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>communities/houses/ca-oakland-oakland-cw.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>97</integer>
-				<key>line</key>
-				<integer>18</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>6</integer>
-			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>2</integer>
 				<key>line</key>
-				<integer>15</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>97</integer>
-				<key>line</key>
 				<integer>18</integer>
-			</dict>
-		</dict>
-		<key>communities/houses/ca-san-diego-catholic-worker.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>22</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>13</integer>
+			<integer>0</integer>
 		</dict>
 		<key>communities/houses/int-canada-parkland-cw.html</key>
 		<dict>
@@ -438,14 +378,30 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>111</integer>
+				<integer>88</integer>
 				<key>line</key>
-				<integer>711</integer>
+				<integer>174</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>122</integer>
+			<integer>169</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>174</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>88</integer>
+				<key>line</key>
+				<integer>174</integer>
+			</dict>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -823,13 +779,13 @@
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
-		<string>communities/houses/az-prescott-quixotes-garage.html</string>
 		<string>communities/houses/aa-new-html.html</string>
+		<string>communities/houses/ca-santa-ana-isaiah-house.html</string>
 		<string>communities/websites.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1347, 283}, {1036, 1016}}</string>
+	<string>{{1373, 170}, {1036, 1016}}</string>
 </dict>
 </plist>
