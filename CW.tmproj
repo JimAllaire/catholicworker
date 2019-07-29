@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>cornell-history.html</string>
+	<string>communities/websites.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -196,29 +196,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>137</integer>
+				<integer>73</integer>
 				<key>line</key>
-				<integer>66</integer>
+				<integer>113</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
-			<integer>0</integer>
+			<integer>82</integer>
 			<key>firstVisibleLine</key>
-			<integer>53</integer>
+			<integer>95</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>66</integer>
+				<integer>113</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>137</integer>
+				<integer>73</integer>
 				<key>line</key>
-				<integer>66</integer>
+				<integer>113</integer>
 			</dict>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
@@ -229,20 +229,6 @@
 				<integer>0</integer>
 				<key>line</key>
 				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>communities/houses/aa-new-html.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>7</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -263,19 +249,19 @@
 			<key>firstVisibleLine</key>
 			<integer>4</integer>
 		</dict>
-		<key>cornell-history.html</key>
+		<key>communities/websites.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>588</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>571</integer>
 		</dict>
 		<key>dorothyday/_books/OnWork.intro.md</key>
 		<dict>
@@ -566,30 +552,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>138</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>42</integer>
+				<integer>30</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>34</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>42</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>138</integer>
-				<key>line</key>
-				<integer>42</integer>
-			</dict>
+			<integer>22</integer>
 		</dict>
 		<key>of-note.html</key>
 		<dict>
@@ -649,16 +619,31 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>quake.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>16</integer>
+				<key>line</key>
+				<integer>18</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>boilerplate.html</string>
-		<string>communities/houses/aa-new-html.html</string>
-		<string>cornell-history.html</string>
+		<string>communities/websites.html</string>
+		<string>index.html</string>
+		<string>quake.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1429, 171}, {989, 1016}}</string>
+	<string>{{1420, 130}, {989, 1016}}</string>
 </dict>
 </plist>
