@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/volunteers.html</string>
+	<string>about/bibliography.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -160,6 +160,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>14</integer>
+		</dict>
+		<key>about/bibliography.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>about/contact.html</key>
 		<dict>
@@ -639,6 +653,7 @@
 		<string>boilerplate.html</string>
 		<string>communities/directory-picker.html</string>
 		<string>communities/volunteers.html</string>
+		<string>about/bibliography.html</string>
 		<string>communities/farms.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
