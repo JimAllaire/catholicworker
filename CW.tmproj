@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/farms.html</string>
+	<string>communities/directory-picker.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -196,29 +196,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>74</integer>
 				<key>line</key>
-				<integer>39</integer>
+				<integer>113</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>19</integer>
+			<integer>91</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>25</integer>
+				<integer>113</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>74</integer>
 				<key>line</key>
-				<integer>39</integer>
+				<integer>113</integer>
 			</dict>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
@@ -240,44 +240,58 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>1087</integer>
+				<integer>704</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1073</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>1</integer>
-				<key>line</key>
-				<integer>1086</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>5</integer>
-				<key>line</key>
-				<integer>1087</integer>
-			</dict>
+			<integer>697</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>24</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>14</integer>
+				<integer>19</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>160</integer>
 			<key>firstVisibleLine</key>
 			<integer>11</integer>
+		</dict>
+		<key>communities/houses/aa-new-html.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>22</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>22</integer>
+			</dict>
 		</dict>
 		<key>communities/houses/ny-new-york-maryhouse.html</key>
 		<dict>
@@ -669,12 +683,12 @@
 		<string>boilerplate.html</string>
 		<string>communities/directory-picker.html</string>
 		<string>communities/volunteers.html</string>
-		<string>communities/houses/tn-knoxville-riverside-community-cw.html</string>
 		<string>communities/farms.html</string>
+		<string>communities/houses/aa-new-html.html</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1381, 203}, {989, 1016}}</string>
+	<string>{{1430, 170}, {989, 1016}}</string>
 </dict>
 </plist>
