@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>communities/directory-picker.html</string>
+	<string>boilerplate.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -20,7 +20,9 @@
 			<key>filename</key>
 			<string>boilerplate.html</string>
 			<key>lastUsed</key>
-			<date>2019-07-08T14:12:34Z</date>
+			<date>2019-10-03T14:19:04Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -210,30 +212,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>74</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>113</integer>
+				<integer>116</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>91</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>113</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>74</integer>
-				<key>line</key>
-				<integer>113</integer>
-			</dict>
+			<integer>96</integer>
 		</dict>
 		<key>books/conscience/02-Articles-On-Distributionism-160.Rmd</key>
 		<dict>
@@ -254,14 +240,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>7</integer>
 				<key>line</key>
-				<integer>594</integer>
+				<integer>294</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
-			<integer>115</integer>
+			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>592</integer>
+			<integer>201</integer>
 		</dict>
 		<key>communities/farms.html</key>
 		<dict>
